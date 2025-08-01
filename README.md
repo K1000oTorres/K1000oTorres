@@ -2,7 +2,11 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=22EBF7&size=25&center=false&lines=Hey!+Welcome+to+my+Github+Profile;AI+Developer...;Data+Scientist...;Researcher..."/>
  
- <p> Enthusiastic data scientist passionate about technology and innovation, with a strong background in mathematics, physics, and statistics, essential for analyzing and solving complex engineering problems. I have experience in designing algorithms based on machine learning and/or deep learning, with a focus on biomedical imaging, signal processing, optical systems utilizing Fourier ptychography, and recommender systems. I have contributed to academic and technical advancement through the analysis of complex data, publishing relevant results with my team and solving interdisciplinary problems. This approach has allowed me to develop critical and methodological thinking, essential for designing and implementing high-quality software solutions in challenging contexts.</i></p>
+ <p> Enthusiastic data scientist passionate about technology and innovation, with a strong background in maths, physics, and statistics, essential for analyzing and solving complex problems. I've experience in designing algorithms based on ML & DL, with a focus on Biomedical Imaging, Signal Processing, Microscopic Imaging based on Fourier ptychography, and recommender systems. I've contributed to academic and technical advancement through the analysis of complex data, publishing relevant results with my team & solving interdisciplinary problems. This approach has allowed me to develop critical and methodological thinking, essential for designing and implementing high-quality software solutions in challenging contexts.</i></p>
+
+  <div align=center>
+     <img height="200" alt="Avatar photo of KK10" src="https://github.com/10kartik/10kartik/assets/99239411/21742f3f-d9a7-4a53-8530-7d20d51e03a9" alt="Avatar photo of KK10">
+  </div>
 
 <!--- <img src="https://user-images.githubusercontent.com/89788120/167628634-549d2bdd-609e-4275-85af-1e1974da64ca.gif" width="30%" align="top" />
 --->
@@ -367,10 +371,16 @@ Featured Repositories.
 ## &nbsp; &nbsp; 📬📥 &nbsp; Connnect with Me
 
 <br/>
+<h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>
 
-&nbsp; &nbsp; &nbsp; &nbsp; <a href="https://www.linkedin.com/in/kgan31/"><img width="105px" alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn%20-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white"/></a> &nbsp;&nbsp;&nbsp;
-<a href="mailto:gkaustav57@gmail.com"><img width="85px" alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a> &nbsp; &nbsp; 
-<a href = "https://discordapp.com/users/885073575839670302"><img width="100px" alt = "Discord" src = "https://img.shields.io/badge/Discord-7289DA?style=flat&logo=discord&logoColor=white"/></a>
+<p align="center">
+<a href="https://www.linkedin.com/in/1010nishant/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" /></a>
+<a href="https://twitter.com/1010nishant" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234980676-61bfb021-ecc8-48f7-88e6-34c1b06c4a58.png" alt="twitter" height="50" width="50" /></a> 
+<a href="https://www.instagram.com/nishant.jangir.1010/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234981169-2dd1e58f-4b7e-468c-8213-034ba62156c3.png" alt="instagram" height="50" width="50" /></a>
+<a href="https://1010nishant.hashnode.dev/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234982196-562aea17-5532-4550-8c08-1c7cb994a541.png" alt="hashnode" height="50" width="50" /></a>
+<a href="https://discordapp.com/users/957722095381540874" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234982627-019fd336-6248-453c-9b05-97c13fd1d207.png" alt="discord" height="50" width="50" /></a>
+  
+</p>
 
 </br>
 </br>
