@@ -4,8 +4,8 @@
  
  <p> Enthusiastic data scientist passionate about technology and innovation, with a strong background in mathematics, physics, and statistics, essential for analyzing and solving complex engineering problems. I have experience in designing algorithms based on machine learning and/or deep learning, with a focus on biomedical imaging, signal processing, optical systems utilizing Fourier ptychography, and recommender systems. I have contributed to academic and technical advancement through the analysis of complex data, publishing relevant results with my team and solving interdisciplinary problems. This approach has allowed me to develop critical and methodological thinking, essential for designing and implementing high-quality software solutions in challenging contexts.</i></p>
 
-<img src="https://user-images.githubusercontent.com/89788120/167628634-549d2bdd-609e-4275-85af-1e1974da64ca.gif" width="50%" align="right" />
-
+<!--- <img src="https://user-images.githubusercontent.com/89788120/167628634-549d2bdd-609e-4275-85af-1e1974da64ca.gif" width="30%" align="top" />
+--->
 ## ⚡🙋‍♂️ About Me
 </br>
 
