@@ -1,12 +1,9 @@
 <h1 align="center"><b>Hi , I'm Camilo Torres </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=22EBF7&size=25&center=false&lines=Hey!+Welcome+to+my+Github+Profile;AI+Developer...;Data+Scientist...;Researcher..."/>
- 
+<img align="right" alt="Coding" width="300" src="https://cdnb.artstation.com/p/assets/images/images/037/650/865/original/aaron-j-charlie-background-gif.gif?1620933075">
  <p> Enthusiastic data scientist passionate about technology and innovation, with a strong background in maths, physics, and statistics, essential for analyzing and solving complex problems. I've experience in designing algorithms based on ML & DL, with a focus on Biomedical Imaging, Signal Processing, Microscopic Imaging based on Fourier ptychography, and recommender systems. I've contributed to academic and technical advancement through the analysis of complex data, publishing relevant results with my team & solving interdisciplinary problems. This approach has allowed me to develop critical and methodological thinking, essential for designing and implementing high-quality software solutions in challenging contexts.</i></p>
 
-  <div align=center>
-     <img height="200" alt="Avatar photo of KK10" src="https://github.com/10kartik/10kartik/assets/99239411/21742f3f-d9a7-4a53-8530-7d20d51e03a9" alt="Avatar photo of KK10">
-  </div>
 
 <!--- <img src="https://user-images.githubusercontent.com/89788120/167628634-549d2bdd-609e-4275-85af-1e1974da64ca.gif" width="30%" align="top" />
 --->
