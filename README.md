@@ -1,17 +1,17 @@
 <h1 align="center"><b>Hi , I'm Camilo Torres </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=22EBF7&size=25&center=false&lines=Hey!+Welcome+to+my+Github+Profile;AI+Developer...;Data+Scientist...;Researcher..."/>
+
 <img align="right" alt="Coding" width="300" src="https://cdnb.artstation.com/p/assets/images/images/037/650/865/original/aaron-j-charlie-background-gif.gif?1620933075">
- <p> Enthusiastic data scientist passionate about technology and innovation, with a strong background in maths, physics, and statistics, essential for analyzing and solving complex problems. I've experience in designing algorithms based on ML & DL, with a focus on Biomedical Imaging, Signal Processing, Microscopic Imaging based on Fourier ptychography, and recommender systems. I've contributed to academic and technical advancement through the analysis of complex data, publishing relevant results with my team & solving interdisciplinary problems. This approach has allowed me to develop critical and methodological thinking, essential for designing and implementing high-quality software solutions in challenging contexts.</i></p>
 
+<p style="text-align: justify;"> Enthusiastic data scientist with a strong background in maths, physics, and statistics, focused on solving complex problems through ML & DL. My work spans <b> Robotics<b>, <b>Time Series Analysis<b>, <b>Computer Vision<b>, <b> Natural Language Processing<b> & <b>Recommender Systems<b>. I thrive on interdisciplinary collaboration, contributing to research and software development with a critical and methodical mindset. </p>
 
-<!--- <img src="https://user-images.githubusercontent.com/89788120/167628634-549d2bdd-609e-4275-85af-1e1974da64ca.gif" width="30%" align="top" />
---->
 ## ⚡🙋‍♂️ About Me
+
 </br>
 
-- I was born in Villavicencio - Colombia 🇨🇴.
-- 👨‍🎓 I'm an Electronic engineer from Colombia. 
+- 🌎 I was born in Villavicencio, Colombia.
+- 👨‍🎓 I'm an Electronic engineer. 
 - 💡 I’m curious about .... Statistical models & Machine learning. 
 - 📖 I’m currently learning ... Software engineering.
 - ❄️ I’m looking to collaborate on ... Interdisciplinary & Research Projects.
