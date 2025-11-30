@@ -92,6 +92,29 @@
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=plastic&logo=ubuntu&logoColor=white)&nbsp;
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=plastic&logo=windows&logoColor=white)
 
+<h2 align="center">💡 Research Seminars & Presentations</h2>
+
+<p align="center">
+    <a href="https://www.youtube.com/watch?v=fFzutLnrivU" target="_blank" rel="noopener noreferrer">
+        <img src="https://img.youtube.com/vi/fFzutLnrivU/0.jpg" alt="Análisis de ecocardiogramas para estimación de riesgo cardiovascular usando aprendizaje profundo." width="400" />
+        <br />
+        <strong>Análisis de ecocardiogramas para estimación de riesgo cardiovascular usando aprendizaje profundo.</strong>
+    </a>
+    <br />
+    <small><i>(Canal: Automatic Data-driven Analytics Laboratory - Duración: 33m 50s)</i></small>
+</p>
+
+<p align="center">
+    <a href="https://www.youtube.com/watch?v=uycoOqsvKVI" target="_blank" rel="noopener noreferrer">
+        <img src="https://img.youtube.com/vi/uycoOqsvKVI/0.jpg" alt="Revisión sistematizada bibliográfica de la Pticografía de Fourier" width="400" />
+        <br />
+        <strong>Revisión sistematizada bibliográfica de la Pticografía de Fourier</strong>
+    </a>
+    <br />
+    <small><i>(Canal: Automatic Data-driven Analytics Laboratory - Duración: 35m 44s)</i></small>
+</p>
+
+<hr>
  
 <h1 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h1>
 
