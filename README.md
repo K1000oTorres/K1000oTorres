@@ -120,18 +120,15 @@
 </h1>
 
 <p align="center">
-  <!-- LinkedIn -->
-  <a href="https://www.linkedin.com/in/juan-camilo-torres-santamaria-9a7b6821a/" target="_blank">
-    <img src="https://cdn.simpleicons.org/linkedin/0A66C2" height="50" width="50"/>
+  <a href="https://www.linkedin.com/in/juan-camilo-torres-santamaria-9a7b6821a/" target="_blank" style="margin: 0 15px;">
+    <img src="https://cdn.simpleicons.org/linkedin/0A66C2" height="55" width="55"/>
   </a>
 
-  <!-- Instagram -->
-  <a href="https://www.instagram.com/cami.torres26/" target="_blank">
-    <img src="https://cdn.simpleicons.org/instagram/E4405F" height="50" width="50"/>
+  <a href="https://www.instagram.com/cami.torres26/" target="_blank" style="margin: 0 15px;">
+    <img src="https://cdn.simpleicons.org/instagram/E4405F" height="55" width="55"/>
   </a>
 
-  <!-- Kaggle -->
-  <a href="https://www.kaggle.com/camilotorres26" target="_blank">
-    <img src="https://cdn.simpleicons.org/kaggle/20BEFF" height="50" width="50"/>
+  <a href="https://www.kaggle.com/camilotorres26" target="_blank" style="margin: 0 15px;">
+    <img src="https://cdn.simpleicons.org/kaggle/20BEFF" height="55" width="55"/>
   </a>
 </p>
