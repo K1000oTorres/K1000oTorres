@@ -112,20 +112,23 @@
     </a>
     <br />
     <small><i>(Canal: Automatic Data-driven Analytics Laboratory - Duración: 35m 44s)</i></small>
+<hr>
+ 
+<h1 align="center">
+  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30">
+  Connect with me 🤝
+</h1>
+
 <p align="center">
-  <a href="https://www.linkedin.com/in/juan-camilo-torres-santamaria-9a7b6821a/" target="_blank">
+  <a href="https://www.linkedin.com/in/juan-camilo-torres-santamaria-9a7b6821a/" target="_blank" style="margin: 0 15px;">
     <img src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" height="55" width="55"/>
   </a>
 
-  &nbsp;&nbsp;&nbsp;&nbsp;
-
-  <a href="https://www.instagram.com/cami.torres26/" target="_blank">
+  <a href="https://www.instagram.com/cami.torres26/" target="_blank" style="margin: 0 15px;">
     <img src="https://cdn.simpleicons.org/instagram/E4405F" height="55" width="55"/>
   </a>
 
-  &nbsp;&nbsp;&nbsp;&nbsp;
-
-  <a href="https://www.kaggle.com/camilotorres26" target="_blank">
+  <a href="https://www.kaggle.com/camilotorres26" target="_blank" style="margin: 0 15px;">
     <img src="https://cdn.simpleicons.org/kaggle/20BEFF" height="55" width="55"/>
   </a>
 </p>
