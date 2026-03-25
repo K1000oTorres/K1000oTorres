@@ -122,15 +122,18 @@
 </h1>
 
 <p align="center">
+  <!-- LinkedIn -->
   <a href="https://www.linkedin.com/in/juan-camilo-torres-santamaria-9a7b6821a/" target="_blank">
-    <img align="center" src="https://img.icons8.com/color/48/linkedin.png" alt="linkedin" height="50" width="50"/>
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/linkedin.svg" height="50" width="50" style="filter: invert(1);" />
   </a>
 
+  <!-- Instagram -->
   <a href="https://www.instagram.com/cami.torres26/" target="_blank">
-    <img align="center" src="https://img.icons8.com/color/48/instagram-new.png" alt="instagram" height="50" width="50"/>
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/instagram.svg" height="50" width="50" style="filter: invert(1);" />
   </a>
 
+  <!-- Kaggle -->
   <a href="https://www.kaggle.com/camilotorres26" target="_blank">
-    <img align="center" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-kaggle-an-online-community-of-data-scientists-and-machine-learners-owned-by-google-logo-color-tal-revivo.png" alt="kaggle" height="50" width="50"/>
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/kaggle.svg" height="50" width="50" style="filter: invert(1);" />
   </a>
 </p>
