@@ -114,26 +114,16 @@
     <small><i>(Canal: Automatic Data-driven Analytics Laboratory - Duración: 35m 44s)</i></small>
 </p>
 
-<hr>
- 
-<h1 align="center">
-  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">
-  Connect with me 🤝
-</h1>
-
 <p align="center">
-  <!-- LinkedIn -->
   <a href="https://www.linkedin.com/in/juan-camilo-torres-santamaria-9a7b6821a/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/linkedin.svg" height="50" width="50" style="filter: invert(1);" />
+    <img src="https://cdn.simpleicons.org/linkedin/0A66C2" height="50" width="50"/>
   </a>
 
-  <!-- Instagram -->
   <a href="https://www.instagram.com/cami.torres26/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/instagram.svg" height="50" width="50" style="filter: invert(1);" />
+    <img src="https://cdn.simpleicons.org/instagram/E4405F" height="50" width="50"/>
   </a>
 
-  <!-- Kaggle -->
   <a href="https://www.kaggle.com/camilotorres26" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/kaggle.svg" height="50" width="50" style="filter: invert(1);" />
+    <img src="https://cdn.simpleicons.org/kaggle/20BEFF" height="50" width="50"/>
   </a>
 </p>
