@@ -158,8 +158,13 @@
 <sub><b>Hermes</b></sub>
 </td>
     <td align="center" width="110">
-<img src="./assets/tools/openclaw.png" width="50" height="50" style="border-radius:12px; object-fit:cover;"/><br><br>
-<sub><b>OpenClaw</b></sub>
+  <img 
+    src="https://img.icons8.com/fluency/96/chatbot.png"
+    width="50"
+    height="50"
+    style="border-radius:12px;"
+  /><br><br>
+  <sub><b>OpenClaw</b></sub>
 </td>
   </tr>
 </table>
