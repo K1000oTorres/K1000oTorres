@@ -25,6 +25,8 @@
   
 ## 🛠️ Tech Stack
 
+## 🛠️ Tech Stack
+
 ### 👨‍💻 Programming Languages
 
 <table>
@@ -63,6 +65,10 @@
       <sub><b>TensorFlow</b></sub>
     </td>
     <td align="center" width="100">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/keras/keras-original.svg" width="45" height="45"/><br>
+      <sub><b>Keras</b></sub>
+    </td>
+    <td align="center" width="100">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" width="45" height="45"/><br>
       <sub><b>OpenCV</b></sub>
     </td>
@@ -70,16 +76,70 @@
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" width="45" height="45"/><br>
       <sub><b>Scikit-Learn</b></sub>
     </td>
+  </tr>
+</table>
+
+---
+
+### 🧠 LLMs, Agents & AI Frameworks
+
+<table>
+  <tr>
     <td align="center" width="100">
       <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" width="45" height="45"/><br>
       <sub><b>Hugging Face</b></sub>
+    </td>
+    <td align="center" width="100">
+      <img src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/langchain.png" width="45" height="45"/><br>
+      <sub><b>LangChain</b></sub>
+    </td>
+    <td align="center" width="100">
+      <img src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/langgraph.png" width="45" height="45"/><br>
+      <sub><b>LangGraph</b></sub>
+    </td>
+    <td align="center" width="100">
+      <img src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/llamaindex.png" width="45" height="45"/><br>
+      <sub><b>LlamaIndex</b></sub>
+    </td>
+    <td align="center" width="100">
+      <img src="https://cdn.jsdelivr.net/gh/mlflow/mlflow@master/assets/icon.svg" width="45" height="45"/><br>
+      <sub><b>MLflow</b></sub>
     </td>
   </tr>
 </table>
 
 ---
 
-### ⚙️ Backend & Software Engineering
+### 🔌 LLMs & AI APIs
+
+<table>
+  <tr>
+    <td align="center" width="100">
+      <img src="https://cdn.simpleicons.org/openai/white" width="45" height="45"/><br>
+      <sub><b>ChatGPT</b></sub>
+    </td>
+    <td align="center" width="100">
+      <img src="https://cdn.simpleicons.org/anthropic/white" width="45" height="45"/><br>
+      <sub><b>Claude</b></sub>
+    </td>
+    <td align="center" width="100">
+      <img src="https://cdn.simpleicons.org/googlegemini/8E75B2" width="45" height="45"/><br>
+      <sub><b>Gemini</b></sub>
+    </td>
+    <td align="center" width="100">
+      <img src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/grok.png" width="45" height="45"/><br>
+      <sub><b>Grok</b></sub>
+    </td>
+    <td align="center" width="100">
+      <img src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/deepseek.png" width="45" height="45"/><br>
+      <sub><b>DeepSeek</b></sub>
+    </td>
+  </tr>
+</table>
+
+---
+
+### ⚙️ Backend, DevOps & Software Engineering
 
 <table>
   <tr>
@@ -96,23 +156,23 @@
       <sub><b>Docker</b></sub>
     </td>
     <td align="center" width="100">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-original.svg" width="45" height="45"/><br>
+      <sub><b>Kubernetes</b></sub>
+    </td>
+    <td align="center" width="100">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45" height="45"/><br>
       <sub><b>Git</b></sub>
     </td>
     <td align="center" width="100">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45" height="45"/><br>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" width="45" height="45" style="background-color:white; border-radius:8px; padding:4px;"/><br>
       <sub><b>GitHub</b></sub>
-    </td>
-    <td align="center" width="100">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="45" height="45"/><br>
-      <sub><b>Linux</b></sub>
     </td>
   </tr>
 </table>
 
 ---
 
-### ☁️ Cloud & Databases
+### ☁️ Cloud, Databases & Backend Services
 
 <table>
   <tr>
@@ -127,6 +187,10 @@
     <td align="center" width="100">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="45" height="45"/><br>
       <sub><b>Azure</b></sub>
+    </td>
+    <td align="center" width="100">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/supabase/supabase-original.svg" width="45" height="45"/><br>
+      <sub><b>Supabase</b></sub>
     </td>
     <td align="center" width="100">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="45" height="45"/><br>
@@ -183,7 +247,7 @@
       <sub><b>Linux</b></sub>
     </td>
     <td align="center" width="100">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" width="45" height="45"/><br>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-original.svg" width="45" height="45" style="background-color:white; border-radius:8px; padding:4px;"/><br>
       <sub><b>Ubuntu</b></sub>
     </td>
     <td align="center" width="100">
@@ -201,6 +265,19 @@
     <td align="center" width="100">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="45" height="45"/><br>
       <sub><b>VS Code</b></sub>
+    </td>
+  </tr>
+</table>
+
+---
+
+### ⚡ Hardware & Acceleration
+
+<table>
+  <tr>
+    <td align="center" width="100">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cuda/cuda-original.svg" width="45" height="45"/><br>
+      <sub><b>CUDA</b></sub>
     </td>
   </tr>
 </table>
