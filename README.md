@@ -48,8 +48,6 @@
   </tr>
 </table>
 
----
-
 ### 🤖 AI & Machine Learning
 
 <table>
@@ -76,8 +74,6 @@
     </td>
   </tr>
 </table>
-
----
 
 ### 🧠 LLMs, Agents & AI Frameworks
 
@@ -106,8 +102,6 @@
   </tr>
 </table>
 
----
-
 ### 🔌 LLMs & AI APIs
 
 <table>
@@ -134,8 +128,6 @@
     </td>
   </tr>
 </table>
-
----
 
 ### 🧩 Automation
 
@@ -185,7 +177,7 @@
       <sub><b>FastAPI</b></sub>
     </td>
     <td align="center" width="110">
-  <img src="https://img.icons8.com/color/96/flask.png" width="50" height="50" style="border-radius:12px;"/><br><br>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="50" height="50" style="filter: invert(1) sepia(1) saturate(5) hue-rotate(300deg);"/><br><br>
   <sub><b>Flask</b></sub>
 </td>
     <td align="center" width="110">
@@ -206,8 +198,6 @@
     </td>
   </tr>
 </table>
-
----
 
 ### ☁️ Cloud, Databases & Backend Services
 
@@ -244,8 +234,6 @@
   </tr>
 </table>
 
----
-
 ### 📊 Data Analysis & Visualization
 
 <table>
@@ -272,8 +260,6 @@
     </td>
   </tr>
 </table>
-
----
 
 ### 💻 Operating Systems & Environments
 
@@ -306,8 +292,6 @@
   </tr>
 </table>
 
----
-
 ### ⚡ Hardware & Acceleration
 
 <table>
@@ -318,7 +302,6 @@
     </td>
   </tr>
 </table>
-
 
 ## 🛠️ Skills
 
