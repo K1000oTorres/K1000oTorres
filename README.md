@@ -2,7 +2,7 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=22EBF7&size=25&center=false&lines=Welcome+to+my+AI+Portfolio;AI+Engineer...;Machine+Learning+Researcher...;LLM+%26+Computer+Vision+Developer...;Building+Intelligent+Systems..."/>
 
-<img align="right" alt="Coding" width="350" src="https://cdnb.artstation.com/p/assets/images/images/037/650/865/original/aaron-j-charlie-background-gif.gif?1620933075">
+<img align="right" alt="Coding" width="400" src="https://cdnb.artstation.com/p/assets/images/images/037/650/865/original/aaron-j-charlie-background-gif.gif?1620933075">
 
 <p style="text-align: justify;"> Here you'll find a collection of projects focused on:
 
@@ -16,12 +16,68 @@
 
 ## ⚡🙋‍♂️ About Me
 
-- 🌎 I was born in ... Villavicencio, Colombia.
-- 👨‍🎓 I'm an ... Electronic engineer. 
-- 💡 I’m curious about ... Statistical models & Machine learning. 
-- 🧠 I’m currently learning ... Software engineering.
-- 💼 I’m looking to collaborate on ... Interdisciplinary & Research Projects.
-- 📩 How to reach me ... junkasanto2@gmail.com.
+- 🌎 Born in Villavicencio, Colombia.
+- 👨‍🎓 Electronic Engineer.
+- 🤖 Passionate about AI Engineering, Machine Learning & Research.
+- 🧠 Currently improving my Software Engineering & MLOps skills.
+- 🔬 Interested in interdisciplinary and high-impact AI projects.
+- 📩 Contact: **junkasanto2@gmail.com**
+  
+### 👨‍💻 Programming Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=python,cpp,r,bash" />
+</p>
+
+---
+
+### 🤖 AI / Machine Learning
+<p>
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv" />
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
+  <img src="https://img.shields.io/badge/LangChain-000000?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/LangGraph-121D33?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge"/>
+</p>
+
+---
+
+### ⚙️ Backend & Software Engineering
+<p>
+  <img src="https://skillicons.dev/icons?i=fastapi,flask,docker,git,github,linux,vscode" />
+</p>
+
+---
+
+### ☁️ Cloud & Databases
+<p>
+  <img src="https://skillicons.dev/icons?i=aws,gcp,azure,mongodb,mysql,postgresql,sqlite" />
+</p>
+
+---
+
+### 📊 Data Analysis & Visualization
+<p>
+  <img src="https://skillicons.dev/icons?i=matplotlib" />
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+</p>
+
+---
+
+### 💻 Operating Systems & Environments
+<p>
+  <img src="https://skillicons.dev/icons?i=linux,ubuntu,windows,anaconda,jupyter" />
+</p>
+
 
 ## 🛠️ Skills
 
@@ -33,68 +89,6 @@
 - 🎨 Creativity.
 - 📢 Communication.
 - 📊 Time management.
-
-## ⚙️ Tools
-
-#### Languages
-
-![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
-![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
-![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=blue&color=0B2C4A)&nbsp;
-![Octave](https://img.shields.io/badge/OCTAVE-darkblue?style=for-the-badge&logo=octave&logoColor=fcd683)&nbsp;
-![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)&nbsp;
-
-#### Environments & IDEs
-
-![Colab](https://img.shields.io/badge/Colab-00b56a.svg?logo=google-colab&logoColor=white)&nbsp;
-![Conda](https://img.shields.io/badge/conda-342B029.svg?&style=flat&logo=anaconda&logoColor=white)&nbsp;
-![Spyder](https://img.shields.io/badge/Spyder%20Ide-FF0000?style=flat&logo=spyder%20ide&logoColor=white)&nbsp;
-![PyCharm](https://img.shields.io/badge/PyCharm-000000.svg?&style=flate&logo=PyCharm&logoColor=white)&nbsp;
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626.svg?&style=flat&logo=Jupyter&logoColor=white)&nbsp;
-![R Studio](https://img.shields.io/badge/RStudio-75AADB?style=flat&logo=RStudio&logoColor=white)&nbsp;
-![VS Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=flat&logo=visual%20studio%20code&logoColor=white)&nbsp;
-
-#### ML & DL
-
-![TensorFlow](https://img.shields.io/badge/TensorFlow%20-%23FF6F00.svg?logo=TensorFlow&logoColor=white)&nbsp;
-![Keras](https://img.shields.io/badge/Keras%20-%23D00000.svg?logo=Keras&logoColor=white)&nbsp;
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-05122A?style=flat&logo=Scikit-learn)&nbsp;
-![Pytorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white)&nbsp;
-![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=flat&logo=docker&logoColor=white)&nbsp;
-
-#### Database
-
-![Google Sheets](https://img.shields.io/badge/Google%20Sheets%20-%2334A853.svg?style=plastic&logo=google%20sheets&logoColor=white)&nbsp;
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=flat&logo=mysql&logoColor=white)&nbsp;
-![SQlite](https://img.shields.io/badge/-SQlite-05122A?style=flat&logo=sqlite&logoColor=A8B9CC)&nbsp;
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=green)
-
-#### Data Analytics 
-
-![Matplotlib](https://img.shields.io/badge/Matplotlib-05122A?style=flat)&nbsp;
-![Numpy](https://img.shields.io/badge/Numpy-777BB4?style=flat&logo=numpy&logoColor=white)&nbsp;
-![Pandas](https://img.shields.io/badge/Pandas-2C2D72?style=flat&logo=pandas&logoColor=white)&nbsp;
-![OpenCV](https://img.shields.io/badge/OpenCV-05122A?style=flat&logo=OpenCV)&nbsp;
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=Tableau&logoColor=white)&nbsp;
-![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=flat&logo=Power%20BI&logoColor=white)
-
-#### Version Controls
-
-![Git](https://img.shields.io/badge/-Git-000?&logo=Git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-000?&logo=GitHub)&nbsp;
-![GitLab](https://img.shields.io/badge/-GitLab-000?&logo=GitLab)
-
-#### Cloud Infrastructures
-
-![AWS](https://img.shields.io/badge/-AWS-000?&logo=Amazon-AWS)&nbsp;
-![Azure](https://img.shields.io/badge/-Azure-000?&logo=Microsoft-Azure)&nbsp;
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat&logo=google-cloud&logoColor=white)
-
-#### Operating Systems
-
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=plastic&logo=linux&logoColor=black)&nbsp;
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=plastic&logo=ubuntu&logoColor=white)&nbsp;
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=plastic&logo=windows&logoColor=white)
 
 <h2 align="center">💡 Research Seminars & Presentations</h2>
 
