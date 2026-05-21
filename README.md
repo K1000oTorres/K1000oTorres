@@ -50,7 +50,7 @@
 
 ---
 
-### 🤖 AI / Machine Learning
+### 🤖 AI & Machine Learning
 
 <table>
   <tr>
@@ -137,7 +137,7 @@
 
 ---
 
-### 🧩 AI Tools & Automation
+### 🧩 Automation
 
 <table>
   <tr>
@@ -153,9 +153,13 @@
     <td align="center" width="110">
       <img src="https://cdn.simpleicons.org/n8n/EA4B71" width="50" height="50"/><br><br>
       <sub><b>n8n</b></sub>
-    </td>
     <td align="center" width="110">
-      <img src="https://img.icons8.com/fluency/96/artificial-intelligence.png" width="50" height="50"/><br><br>
+      <img 
+        src="https://files.catbox.moe/7lgszw.png" 
+        width="50" 
+        height="50"
+        style="border-radius:12px;"
+      /><br><br>
       <sub><b>Hermes</b></sub>
     </td>
     <td align="center" width="110">
