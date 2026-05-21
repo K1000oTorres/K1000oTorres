@@ -289,51 +289,30 @@
 
 ## 🚀 Featured Projects
 
-A selection of projects where I have worked at the intersection of Artificial Intelligence, Machine Learning, Biomedical Research, Computational Imaging, and LLM-based applications.
-
----
-
-### 🫀 Biomedical AI for Cardiovascular Risk Estimation
-
+### 🫀 Biomedical AI for Cardiovascular Risk Estimation  
+Research project focused on cardiovascular risk estimation using AI, biomedical data processing, ECG analysis, and echocardiography.  
 **Role:** Research & AI Support Professional  
-**Project:** Funded research project on cardiovascular risk estimation using Industry 4.0 technologies  
 **Output:** 6 scientific articles published  
-
-Worked on AI-supported research processes for the management, processing, and analysis of medical information related to cardiovascular risk estimation.
-
-**Related repositories:**  
-[AE-HRS](https://github.com/K1000oTorres/AE-HRS) · [Data-Augmentation-Echocardiogram-Frames](https://github.com/K1000oTorres/Data-Augmentation-Echocardiogram-Frames)
-
-**Focus:** `Biomedical AI` · `Machine Learning` · `Cardiovascular Risk` · `ECG` · `Echocardiography`
+**Repos:** [AE-HRS](https://github.com/K1000oTorres/AE-HRS) · [Echo Data Augmentation](https://github.com/K1000oTorres/Data-Augmentation-Echocardiogram-Frames)  
+**Stack:** `Machine Learning` · `Biomedical AI` · `Computer Vision` · `Cardiovascular Risk`
 
 ---
 
-### 🔬 Computational Imaging & Fourier Ptychography Microscopy
-
+### 🔬 Fourier Ptychography Microscopy  
+Computational imaging project focused on high-resolution microscopy and image reconstruction using Fourier Ptychography techniques.  
 **Role:** Research Support Professional & Algorithm Developer  
-**Project:** High-resolution microscopy prototype based on Fourier Ptychography  
-**Output:** 3 algorithms implemented · 1 scientific article in development  
-
-Implemented and experimented with computational imaging algorithms for high-resolution microscopy and image reconstruction using Fourier Ptychography techniques.
-
-**Related repositories:**  
-[FPM-INR](https://github.com/K1000oTorres/FPM-INR) · [FPM-CNN](https://github.com/K1000oTorres/FPM-CNN) · [CI-CDNet](https://github.com/K1000oTorres/CI-CDNet) · [PtyLab](https://github.com/K1000oTorres/PtyLab)
-
-**Focus:** `Computational Imaging` · `Fourier Ptychography` · `Microscopy` · `Deep Learning` · `Image Reconstruction`
+**Output:** 3 algorithms implemented · 1 article in development  
+**Repos:** [FPM-INR](https://github.com/K1000oTorres/FPM-INR) · [FPM-CNN](https://github.com/K1000oTorres/FPM-CNN) · [CI-CDNet](https://github.com/K1000oTorres/CI-CDNet)  
+**Stack:** `Computational Imaging` · `Fourier Ptychography` · `Deep Learning` · `Image Reconstruction`
 
 ---
 
-### 🤗 AI Agents, LLM Applications & Automation
-
+### 🤗 AI Agents & LLM Applications  
+Portfolio line focused on building AI agents for document analysis, KPI extraction, report generation, research assistance, and workflow automation.  
 **Role:** AI Engineer / LLM Developer  
 **Status:** In progress  
-
-Building practical AI agents and LLM-based applications focused on document analysis, KPI extraction, report generation, research assistance, and workflow automation.
-
-**Planned projects:**  
-`LLM KPI Report Agent` · `Research Assistant Agent` · `Document Analysis Agent` · `Automation Agent`
-
-**Focus:** `AI Agents` · `LLMs` · `RAG` · `Hugging Face` · `LangChain` · `FastAPI` · `Automation`
+**Projects:** `LLM KPI Report Agent` · `Research Assistant Agent` · `Document Analysis Agent`  
+**Stack:** `LLMs` · `RAG` · `Hugging Face` · `LangChain` · `FastAPI` · `Automation`
 
 ## 🛠️ Skills
 
