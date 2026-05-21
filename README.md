@@ -113,9 +113,9 @@
 <table>
   <tr>
     <td align="center" width="110">
-      <img src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/chatgpt-color.png" width="50" height="50"/><br><br>
-      <sub><b>ChatGPT</b></sub>
-    </td>
+  <img src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/openai.png" width="50" height="50" style="border-radius:12px;"/><br><br>
+  <sub><b>ChatGPT</b></sub>
+</td>
     <td align="center" width="110">
       <img src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/claude-color.png" width="50" height="50"/><br><br>
       <sub><b>Claude</b></sub>
