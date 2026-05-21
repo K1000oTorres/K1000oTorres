@@ -25,9 +25,15 @@
   
 ## 🛠️ Tech Stack
 
+<style>
+  .tech-table td {
+    padding: 14px;
+  }
+</style>
+
 ### 👨‍💻 Programming Languages
 
-<table>
+<table class="tech-table">
   <tr>
     <td align="center" width="110"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50"/><br><br><sub><b>Python</b></sub></td>
     <td align="center" width="110"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="50"/><br><br><sub><b>C++</b></sub></td>
@@ -40,7 +46,7 @@
 
 ### 🤖 AI / Machine Learning
 
-<table>
+<table class="tech-table">
   <tr>
     <td align="center" width="110"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="50"/><br><br><sub><b>PyTorch</b></sub></td>
     <td align="center" width="110"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="50"/><br><br><sub><b>TensorFlow</b></sub></td>
@@ -54,13 +60,13 @@
 
 ### 🧠 LLMs, Agents & AI Frameworks
 
-<table>
+<table class="tech-table">
   <tr>
-    <td align="center" width="120"><img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" width="52"/><br><br><sub><b>Hugging Face</b></sub></td>
-    <td align="center" width="120"><img src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/langchain-color.png" width="52"/><br><br><sub><b>LangChain</b></sub></td>
-    <td align="center" width="120"><img src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/langgraph-color.png" width="52"/><br><br><sub><b>LangGraph</b></sub></td>
-    <td align="center" width="120"><img src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/llamaindex-color.png" width="52"/><br><br><sub><b>LlamaIndex</b></sub></td>
-    <td align="center" width="120"><img src="https://cdn.jsdelivr.net/gh/mlflow/mlflow@master/assets/icon.svg" width="52"/><br><br><sub><b>MLflow</b></sub></td>
+    <td align="center" width="110"><img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" width="50"/><br><br><sub><b>Hugging Face</b></sub></td>
+    <td align="center" width="110"><img src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/langchain-color.png" width="50"/><br><br><sub><b>LangChain</b></sub></td>
+    <td align="center" width="110"><img src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/langgraph-color.png" width="50"/><br><br><sub><b>LangGraph</b></sub></td>
+    <td align="center" width="110"><img src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/llamaindex-color.png" width="50"/><br><br><sub><b>LlamaIndex</b></sub></td>
+    <td align="center" width="110"><img src="https://cdn.jsdelivr.net/gh/mlflow/mlflow@master/assets/icon.svg" width="50"/><br><br><sub><b>MLflow</b></sub></td>
   </tr>
 </table>
 
@@ -68,28 +74,13 @@
 
 ### 🔌 LLMs & AI APIs
 
-<table>
+<table class="tech-table">
   <tr>
-    <td align="center" width="125">
-      <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" height="32"/><br><br>
-      <sub><b>ChatGPT</b></sub>
-    </td>
-    <td align="center" width="125">
-      <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white" height="32"/><br><br>
-      <sub><b>Claude</b></sub>
-    </td>
-    <td align="center" width="125">
-      <img src="https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" height="32"/><br><br>
-      <sub><b>Gemini</b></sub>
-    </td>
-    <td align="center" width="125">
-      <img src="https://img.shields.io/badge/Grok-000000?style=for-the-badge&logo=x&logoColor=white" height="32"/><br><br>
-      <sub><b>Grok</b></sub>
-    </td>
-    <td align="center" width="125">
-      <img src="https://img.shields.io/badge/DeepSeek-4D6BFF?style=for-the-badge&logo=deepseek&logoColor=white" height="32"/><br><br>
-      <sub><b>DeepSeek</b></sub>
-    </td>
+    <td align="center" width="110"><img src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/openai-color.png" width="50"/><br><br><sub><b>ChatGPT</b></sub></td>
+    <td align="center" width="110"><img src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/claude-color.png" width="50"/><br><br><sub><b>Claude</b></sub></td>
+    <td align="center" width="110"><img src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/gemini-color.png" width="50"/><br><br><sub><b>Gemini</b></sub></td>
+    <td align="center" width="110"><img src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/grok-color.png" width="50"/><br><br><sub><b>Grok</b></sub></td>
+    <td align="center" width="110"><img src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/deepseek-color.png" width="50"/><br><br><sub><b>DeepSeek</b></sub></td>
   </tr>
 </table>
 
@@ -97,97 +88,12 @@
 
 ### 🧩 AI Tools & Automation
 
-<table>
+<table class="tech-table">
   <tr>
-    <td align="center" width="125">
-      <img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white" height="32"/><br><br>
-      <sub><b>Cursor</b></sub>
-    </td>
-    <td align="center" width="125">
-      <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" height="32"/><br><br>
-      <sub><b>n8n</b></sub>
-    </td>
-    <td align="center" width="125">
-      <img src="https://img.shields.io/badge/Hermes-111827?style=for-the-badge" height="32"/><br><br>
-      <sub><b>Hermes</b></sub>
-    </td>
-    <td align="center" width="125">
-      <img src="https://img.shields.io/badge/OpenClaw-1F2937?style=for-the-badge" height="32"/><br><br>
-      <sub><b>OpenClaw</b></sub>
-    </td>
-  </tr>
-</table>
-
----
-
-### ⚙️ Backend, DevOps & Software Engineering
-
-<table>
-  <tr>
-    <td align="center" width="110"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="50"/><br><br><sub><b>FastAPI</b></sub></td>
-    <td align="center" width="110"><img src="https://img.shields.io/badge/Flask-FFFFFF?style=for-the-badge&logo=flask&logoColor=black" height="32"/><br><br><sub><b>Flask</b></sub></td>
-    <td align="center" width="110"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="50"/><br><br><sub><b>Docker</b></sub></td>
-    <td align="center" width="110"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-original.svg" width="50"/><br><br><sub><b>Kubernetes</b></sub></td>
-    <td align="center" width="110"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50"/><br><br><sub><b>Git</b></sub></td>
-    <td align="center" width="110"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" height="32"/><br><br><sub><b>GitHub</b></sub></td>
-  </tr>
-</table>
-
----
-
-### ☁️ Cloud, Databases & Backend Services
-
-<table>
-  <tr>
-    <td align="center" width="110"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="50"/><br><br><sub><b>AWS</b></sub></td>
-    <td align="center" width="110"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="50"/><br><br><sub><b>Google Cloud</b></sub></td>
-    <td align="center" width="110"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="50"/><br><br><sub><b>Azure</b></sub></td>
-    <td align="center" width="110"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/supabase/supabase-original.svg" width="50"/><br><br><sub><b>Supabase</b></sub></td>
-    <td align="center" width="110"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="50"/><br><br><sub><b>MongoDB</b></sub></td>
-    <td align="center" width="110"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50"/><br><br><sub><b>MySQL</b></sub></td>
-    <td align="center" width="110"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="50"/><br><br><sub><b>PostgreSQL</b></sub></td>
-  </tr>
-</table>
-
----
-
-### 📊 Data Analysis & Visualization
-
-<table>
-  <tr>
-    <td align="center" width="110"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="50"/><br><br><sub><b>Pandas</b></sub></td>
-    <td align="center" width="110"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="50"/><br><br><sub><b>NumPy</b></sub></td>
-    <td align="center" width="110"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="50"/><br><br><sub><b>Matplotlib</b></sub></td>
-    <td align="center" width="110"><img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" height="32"/><br><br><sub><b>Tableau</b></sub></td>
-    <td align="center" width="110"><img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" height="32"/><br><br><sub><b>Power BI</b></sub></td>
-  </tr>
-</table>
-
----
-
-### 💻 Operating Systems & Environments
-
-<table>
-  <tr>
-    <td align="center" width="110"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="50"/><br><br><sub><b>Linux</b></sub></td>
-    <td align="center" width="110"><img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" height="32"/><br><br><sub><b>Ubuntu</b></sub></td>
-    <td align="center" width="110"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" width="50"/><br><br><sub><b>Windows</b></sub></td>
-    <td align="center" width="110"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" width="50"/><br><br><sub><b>Anaconda</b></sub></td>
-    <td align="center" width="110"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="50"/><br><br><sub><b>Jupyter</b></sub></td>
-    <td align="center" width="110"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="50"/><br><br><sub><b>VS Code</b></sub></td>
-  </tr>
-</table>
-
----
-
-### ⚡ Hardware & Acceleration
-
-<table>
-  <tr>
-    <td align="center" width="110">
-      <img src="https://img.shields.io/badge/CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white" height="32"/><br><br>
-      <sub><b>CUDA</b></sub>
-    </td>
+    <td align="center" width="110"><img src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/cursor-color.png" width="50"/><br><br><sub><b>Cursor</b></sub></td>
+    <td align="center" width="110"><img src="https://cdn.simpleicons.org/n8n/EA4B71" width="50"/><br><br><sub><b>n8n</b></sub></td>
+    <td align="center" width="110"><img src="https://img.shields.io/badge/Hermes-7C3AED?style=flat-square&labelColor=111827&color=7C3AED" height="34"/><br><br><sub><b>Hermes</b></sub></td>
+    <td align="center" width="110"><img src="https://img.shields.io/badge/OpenClaw-38BDF8?style=flat-square&labelColor=111827&color=38BDF8" height="34"/><br><br><sub><b>OpenClaw</b></sub></td>
   </tr>
 </table>
 
