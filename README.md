@@ -23,6 +23,8 @@
 - 🔬 Interested in interdisciplinary and high-impact AI projects.
 - 📩 Contact: **junkasanto2@gmail.com**
   
+## 🛠️ Tech Stack
+
 ### 👨‍💻 Programming Languages
 <p>
   <img src="https://skillicons.dev/icons?i=python,cpp,r,bash" />
