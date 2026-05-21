@@ -12,14 +12,9 @@
 - 📈 Time Series Forecasting
 - 💬 Natural Language Processing & LLMs
 - ⚡ AI Applications & Automation
-- 🔬 Research-Oriented Development
-
-My goal is to build intelligent systems that combine research, software engineering, and real-world impact.
-
-I enjoy solving complex problems through data, algorithms, and scalable AI solutions while continuously improving my engineering and research skills. </p>
+- 🔬 Research-Oriented Development </p>
 
 ## ⚡🙋‍♂️ About Me
-
 
 - 🌎 I was born in ... Villavicencio, Colombia.
 - 👨‍🎓 I'm an ... Electronic engineer. 
