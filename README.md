@@ -90,15 +90,15 @@
       <sub><b>Hugging Face</b></sub>
     </td>
     <td align="center" width="100">
-      <img src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/langchain.png" width="45" height="45"/><br>
+     <img src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/langchain-color.png" width="45"/><br>
       <sub><b>LangChain</b></sub>
     </td>
     <td align="center" width="100">
-      <img src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/langgraph.png" width="45" height="45"/><br>
+      <img src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/langgraph-color.png" width="45"/><br>
       <sub><b>LangGraph</b></sub>
     </td>
     <td align="center" width="100">
-      <img src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/llamaindex.png" width="45" height="45"/><br>
+      <img src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/llamaindex-color.png" width="45"/><br>
       <sub><b>LlamaIndex</b></sub>
     </td>
     <td align="center" width="100">
@@ -115,7 +115,7 @@
 <table>
   <tr>
     <td align="center" width="100">
-      <img src="https://cdn.simpleicons.org/openai/white" width="45" height="45"/><br>
+      <img src="https://upload.wikimedia.org/wikipedia/commons/0/04/ChatGPT_logo.svg" width="45"/><br>
       <sub><b>ChatGPT</b></sub>
     </td>
     <td align="center" width="100">
@@ -164,7 +164,9 @@
       <sub><b>Git</b></sub>
     </td>
     <td align="center" width="100">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" width="45" height="45" style="background-color:white; border-radius:8px; padding:4px;"/><br>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"
+width="45"
+style="filter: invert(1);"/><br>
       <sub><b>GitHub</b></sub>
     </td>
   </tr>
@@ -276,7 +278,7 @@
 <table>
   <tr>
     <td align="center" width="100">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cuda/cuda-original.svg" width="45" height="45"/><br>
+      <img src="https://upload.wikimedia.org/wikipedia/commons/b/b9/Nvidia_CUDA_Logo.jpg" width="45"/><br>
       <sub><b>CUDA</b></sub>
     </td>
   </tr>
