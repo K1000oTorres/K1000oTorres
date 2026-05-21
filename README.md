@@ -155,24 +155,19 @@
 <sub><b>n8n</b></sub>
 </td>
       <td align="center" width="110">
-  <img 
-    src="https://img.icons8.com/emoji/96/lobster-emoji.png"
-    width="50"
-    height="50"
-    style="border-radius:12px;"
-  /><br><br>
-  <sub><b>OpenClaw</b></sub>
-</td>
-
-<td align="center" width="110">
-  <img 
-    src="https://img.icons8.com/color/96/cyberpunk.png"
-    width="50"
-    height="50"
-    style="border-radius:12px;"
-  /><br><br>
-  <sub><b>Hermes</b></sub>
-</td>
+      <img 
+        src="https://cdn.simpleicons.org/probot/6A5ACD"
+        width="50" height="50" style="border-radius:12px;"
+      /><br><br>
+      <sub><b>OpenClaw</b></sub>
+    </td>
+    <td align="center" width="110">
+      <img 
+        src="https://cdn.simpleicons.org/apacheairflow/017CEE"
+        width="50" height="50" style="border-radius:12px;"
+      /><br><br>
+      <sub><b>Hermes</b></sub>
+    </td>
   </tr>
 </table>
 
