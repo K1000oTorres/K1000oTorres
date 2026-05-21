@@ -185,7 +185,7 @@
       <sub><b>FastAPI</b></sub>
     </td>
     <td align="center" width="110">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="50" height="50" style="filter: invert(1) brightness(2);"/><br><br>
+  <img src="https://img.icons8.com/color/96/flask.png" width="50" height="50" style="border-radius:12px;"/><br><br>
   <sub><b>Flask</b></sub>
 </td>
     <td align="center" width="110">
