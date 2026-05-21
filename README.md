@@ -287,6 +287,142 @@
   </tr>
 </table>
 
+## 🚀 Featured Projects
+
+Here are some of the main projects I have worked on, combining Artificial Intelligence, Machine Learning, Biomedical Engineering, Computational Imaging, Research, and Software Development.
+
+My portfolio is organized around three main lines of work:
+
+- 🫀 Biomedical AI & Cardiovascular Risk Estimation
+- 🔬 Computational Imaging & Fourier Ptychography Microscopy
+- 🤗 AI Agents, LLM Applications & Automation
+
+---
+
+### 🫀 Cardiovascular Risk Estimation with Industry 4.0 Technologies
+
+**Role:** Support Professional in Research, AI and Data Processing  
+**Project:** *Estimation of cardiovascular risk integrating Industry 4.0 technologies for the management, processing, and analysis of medical information*  
+**Code:** 82335  
+**Program:** FCTeI - MinCiencias Call No. 890 of 2020  
+**Research Output:** 6 scientific articles published  
+
+This project focused on strengthening research and development processes related to the management, processing, and analysis of medical information for cardiovascular risk estimation.
+
+My work was related to the application of Artificial Intelligence, Machine Learning, data analysis, and biomedical signal/image processing to support cardiovascular health research.
+
+#### 🔎 Main Areas
+
+- Cardiovascular risk estimation
+- Biomedical data processing
+- Machine Learning and Deep Learning
+- ECG and echocardiogram analysis
+- Medical image processing
+- Research-oriented AI development
+
+#### 🧠 Related Repositories
+
+| Repository | Description | Stack |
+|---|---|---|
+| [AE-HRS](https://github.com/K1000oTorres/AE-HRS) | Autoencoder-based approach for cardiovascular health forecasting and risk-related analysis. | Python, Machine Learning, Autoencoders |
+| [Data-Augmentation-Echocardiogram-Frames](https://github.com/K1000oTorres/Data-Augmentation-Echocardiogram-Frames) | Data augmentation pipeline for echocardiogram frames used in biomedical image analysis. | Python, Computer Vision, Deep Learning |
+
+#### 📄 Scientific Contributions
+
+This research line contributed to the publication of **6 scientific articles** related to cardiovascular risk estimation, ECG analysis, echocardiography, clinical recommendation systems, and biomedical AI.
+
+#### ✅ What this project demonstrates
+
+- Experience working on funded research projects.
+- Ability to apply AI to real biomedical problems.
+- Knowledge of medical data processing and cardiovascular health analysis.
+- Research production and scientific communication.
+- Development of AI-based solutions in interdisciplinary environments.
+
+---
+
+### 🔬 High-Resolution Microscopy using Fourier Ptychography
+
+**Role:** Professional Support in Research Management and Algorithm Implementation  
+**Project:** *Design of a prototype for high-resolution microscopy based on the Fourier Ptychography technique*  
+**Code:** C10-F02-007-2024  
+**Program:** BPUNIVIAC 04 3110 2023 - FCBeI, Universidad de los Llanos  
+**Research Output:** 1 scientific article in development  
+**Code Output:** 3 implemented algorithms available on GitHub  
+
+This project focuses on computational imaging techniques for high-resolution microscopy, particularly using Fourier Ptychography methods. The work involved research support, algorithm implementation, experimentation, and technical documentation for microscopy image reconstruction.
+
+#### 🔎 Main Areas
+
+- Computational imaging
+- Fourier Ptychography
+- High-resolution microscopy
+- Deep Learning for image reconstruction
+- Neural representations
+- Scientific software implementation
+
+#### 🧠 Related Repositories
+
+| Repository | Description | Stack |
+|---|---|---|
+| [FPM-INR](https://github.com/K1000oTorres/FPM-INR) | Implementation and experimentation with implicit neural representations for Fourier Ptychographic Microscopy. | Python, Deep Learning, INR |
+| [FPM-CNN](https://github.com/K1000oTorres/FPM-CNN) | CNN-based approach for Fourier Ptychographic Microscopy reconstruction. | Python, CNNs, Computational Imaging |
+| [CI-CDNet](https://github.com/K1000oTorres/CI-CDNet) | Complex-domain neural network approach for image enhancement/reconstruction in computational imaging. | Python, Neural Networks, Computational Imaging |
+| [PtyLab](https://github.com/K1000oTorres/PtyLab) | Repository related to ptychography experimentation and computational imaging workflows. | Python, Jupyter Notebook, Ptychography |
+
+#### 📄 Scientific Contribution
+
+This research line is currently supporting the development of a scientific article focused on high-resolution microscopy using Fourier Ptychography techniques.
+
+#### ✅ What this project demonstrates
+
+- Ability to implement algorithms from advanced scientific literature.
+- Experience in computational imaging and microscopy.
+- Research-driven software development.
+- Deep Learning applied to image reconstruction.
+- Capacity to translate mathematical and optical methods into executable code.
+
+---
+
+### 🤗 AI Agents, LLM Applications & Automation
+
+**Role:** AI Engineer / LLM Developer in Training  
+**Status:** In progress  
+**Context:** Projects developed as part of my learning path in AI Agents and the Hugging Face ecosystem.  
+
+This line of projects focuses on building practical AI agents using Large Language Models, tools, retrieval systems, APIs, and automation workflows.
+
+The goal is to create portfolio-ready projects that demonstrate how LLMs can be used to automate real-world tasks such as document analysis, KPI extraction, report generation, research assistance, and decision support.
+
+#### 🔎 Main Areas
+
+- AI Agents
+- Large Language Models
+- Retrieval-Augmented Generation
+- Tool use and function calling
+- Business process automation
+- Document understanding
+- API-based AI applications
+
+#### 🧠 Planned / In Progress Repositories
+
+| Project | Description | Stack |
+|---|---|---|
+| LLM KPI Report Agent | AI agent for extracting KPIs from structured and unstructured documents and generating executive reports. | Python, Hugging Face, LangChain/LangGraph, FastAPI |
+| Research Assistant Agent | Agent designed to search, summarize, and organize technical or scientific information. | Python, LLMs, RAG, Vector Databases |
+| Document Analysis Agent | System for analyzing PDFs, extracting relevant information, and answering questions over documents. | Python, Transformers, Embeddings, RAG |
+| Automation Agent | AI-powered workflow automation assistant for repetitive business or data tasks. | Python, APIs, Agents, Automation |
+
+#### ✅ What this project line demonstrates
+
+- Practical use of LLMs beyond simple chatbots.
+- Ability to build tool-using AI agents.
+- Understanding of RAG, embeddings, prompts, and orchestration.
+- Connection between AI models, APIs, and real business workflows.
+- Continuous learning in modern Generative AI engineering.
+
+---
+
 ## 🛠️ Skills
 
 - ⚡ Adaptability.
