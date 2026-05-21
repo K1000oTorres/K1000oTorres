@@ -2,7 +2,7 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=22EBF7&size=25&center=false&lines=Welcome+to+my+AI+Portfolio;AI+Engineer...;Machine+Learning+Researcher...;LLM+%26+Computer+Vision+Developer...;Building+Intelligent+Systems..."/>
 
-<img align="right" alt="Coding" width="400" src="https://cdnb.artstation.com/p/assets/images/images/037/650/865/original/aaron-j-charlie-background-gif.gif?1620933075">
+<img align="right" alt="Coding" width="350" src="https://cdnb.artstation.com/p/assets/images/images/037/650/865/original/aaron-j-charlie-background-gif.gif?1620933075">
 
 <p style="text-align: justify;"> Here you'll find a collection of projects focused on:
 
@@ -22,9 +22,6 @@
 - 🧠 I’m currently learning ... Software engineering.
 - 💼 I’m looking to collaborate on ... Interdisciplinary & Research Projects.
 - 📩 How to reach me ... junkasanto2@gmail.com.
-
-<hr>
-
 
 ## 🛠️ Skills
 
