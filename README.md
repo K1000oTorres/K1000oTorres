@@ -162,7 +162,7 @@
       /><br><br>
       <sub><b>Hermes</b></sub>
     <td align="center" width="110">
-<img src="https://img.shields.io/badge/OpenClaw-DC2626?style=for-the-badge&labelColor=111827&color=DC2626" height="40"/><br><br>
+<img src="./assets/tools/openclaw.png" width="50" height="50" style="border-radius:12px; object-fit:cover;"/><br><br>
 <sub><b>OpenClaw</b></sub>
 </td>
   </tr>
