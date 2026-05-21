@@ -125,9 +125,9 @@
       <sub><b>Gemini</b></sub>
     </td>
     <td align="center" width="110">
-      <img src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/grok-color.png" width="50" height="50"/><br><br>
-      <sub><b>Grok</b></sub>
-    </td>
+  <img src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/grok-color.png" width="50" height="50" style="border-radius:12px;"/><br><br>
+  <sub><b>Grok</b></sub>
+</td>
     <td align="center" width="110">
       <img src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/deepseek-color.png" width="50" height="50"/><br><br>
       <sub><b>DeepSeek</b></sub>
@@ -155,19 +155,24 @@
 <sub><b>n8n</b></sub>
 </td>
       <td align="center" width="110">
-      <img 
-        src="https://cdn.simpleicons.org/probot/6A5ACD"
-        width="50" height="50" style="border-radius:12px;"
-      /><br><br>
-      <sub><b>OpenClaw</b></sub>
-    </td>
-    <td align="center" width="110">
-      <img 
-        src="https://cdn.simpleicons.org/apacheairflow/017CEE"
-        width="50" height="50" style="border-radius:12px;"
-      /><br><br>
-      <sub><b>Hermes</b></sub>
-    </td>
+  <img 
+    src="https://img.icons8.com/color/96/lobster.png"
+    width="50"
+    height="50"
+    style="border-radius:12px;"
+  /><br><br>
+  <sub><b>OpenClaw</b></sub>
+</td>
+
+<td align="center" width="110">
+  <img 
+    src="https://img.icons8.com/color/96/robot-arm.png"
+    width="50"
+    height="50"
+    style="border-radius:12px;"
+  /><br><br>
+  <sub><b>Hermes</b></sub>
+</td>
   </tr>
 </table>
 
