@@ -113,23 +113,23 @@
 <table>
   <tr>
     <td align="center" width="110">
-      <img src="https://cdn.simpleicons.org/openai/white" width="50" height="50"/><br><br>
+      <img src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/chatgpt-color.png" width="50" height="50"/><br><br>
       <sub><b>ChatGPT</b></sub>
     </td>
     <td align="center" width="110">
-      <img src="https://cdn.simpleicons.org/anthropic/white" width="50" height="50"/><br><br>
+      <img src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/claude-color.png" width="50" height="50"/><br><br>
       <sub><b>Claude</b></sub>
     </td>
     <td align="center" width="110">
-      <img src="https://cdn.simpleicons.org/googlegemini/8E75B2" width="50" height="50"/><br><br>
+      <img src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/gemini-color.png" width="50" height="50"/><br><br>
       <sub><b>Gemini</b></sub>
     </td>
     <td align="center" width="110">
-      <img src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/grok.png" width="50" height="50"/><br><br>
+      <img src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/grok-color.png" width="50" height="50"/><br><br>
       <sub><b>Grok</b></sub>
     </td>
     <td align="center" width="110">
-      <img src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/deepseek.png" width="50" height="50"/><br><br>
+      <img src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/deepseek-color.png" width="50" height="50"/><br><br>
       <sub><b>DeepSeek</b></sub>
     </td>
   </tr>
