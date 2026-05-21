@@ -151,29 +151,23 @@
       <sub><b>Cursor</b></sub>
     </td>
       <td align="center" width="110">
-<img src="https://cdn.simpleicons.org/n8n/EA4B71" width="50" height="50" style="border-radius:12px;"/><br><br>
-<sub><b>n8n</b></sub>
+  <img 
+    src="https://img.icons8.com/color/96/lobster.png"
+    width="50"
+    height="50"
+    style="border-radius:12px;"
+  /><br><br>
+  <sub><b>OpenClaw</b></sub>
+</td>
+
 <td align="center" width="110">
   <img 
-    src="https://img.icons8.com/color/96/anime-character.png"
+    src="https://img.icons8.com/color/96/kawaii.png"
     width="50"
     height="50"
     style="border-radius:12px;"
   /><br><br>
   <sub><b>Hermes</b></sub>
-</td>
-
-<td align="center" width="110">
-  <img 
-    src="https://img.icons8.com/fluency/96/lobster.png"
-    width="50"
-    height="50"
-    style="
-      border-radius:12px;
-      filter:saturate(180%);
-    "
-  /><br><br>
-  <sub><b>OpenClaw</b></sub>
 </td>
   </tr>
 </table>
