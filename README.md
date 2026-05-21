@@ -134,37 +134,17 @@
 <table>
   <tr>
     <td align="center" width="110">
-      <img 
-        src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/cursor.png" 
-        width="50" 
-        height="50"
-        style="border-radius:12px;"
-      /><br><br>
-      <sub><b>Cursor</b></sub>
+      <img src="https://cdn.simpleicons.org/n8n/EA4B71" width="50" height="50" style="border-radius:12px;"/><br><br>
+      <sub><b>n8n</b></sub>
     </td>
     <td align="center" width="110">
-<img src="https://cdn.simpleicons.org/n8n/EA4B71" width="50" height="50" style="border-radius:12px;"/><br><br>
-<sub><b>n8n</b></sub>
-</td>
-      <td align="center" width="110">
-  <img 
-    src="https://img.icons8.com/color/96/lobster.png"
-    width="50"
-    height="50"
-    style="border-radius:12px;"
-  /><br><br>
-  <sub><b>OpenClaw</b></sub>
-</td>
-
-<td align="center" width="110">
-  <img 
-    src="https://img.icons8.com/color/96/robot-2.png"
-    width="50"
-    height="50"
-    style="border-radius:12px;"
-  /><br><br>
-  <sub><b>Hermes</b></sub>
-</td>
+      <img src="https://img.icons8.com/color/96/lobster.png" width="50" height="50" style="border-radius:12px;"/><br><br>
+      <sub><b>OpenClaw</b></sub>
+    </td>
+    <td align="center" width="110">
+      <img src="https://img.icons8.com/color/96/robot-2.png" width="50" height="50" style="border-radius:12px;"/><br><br>
+      <sub><b>Hermes</b></sub>
+    </td>
   </tr>
 </table>
 
@@ -288,6 +268,10 @@
     <td align="center" width="110">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="50" height="50"/><br><br>
       <sub><b>VS Code</b></sub>
+    </td>
+    <td align="center" width="110">
+      <img src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/cursor.png" width="50" height="50" style="border-radius:12px;"/><br><br>
+      <sub><b>Cursor</b></sub>
     </td>
   </tr>
 </table>
