@@ -137,36 +137,32 @@
 
 ---
 
----
-
----
-
 ### 🧩 AI Tools & Automation
 
 <table>
-<tr>
-
-<td align="center" width="110">
-<img src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/cursor.png" width="50" height="50" style="border-radius:12px;"/><br><br>
-<sub><b>Cursor</b></sub>
-</td>
-
-<td align="center" width="110">
-<img src="https://cdn.simpleicons.org/n8n/EA4B71" width="50" height="50" style="border-radius:12px;"/><br><br>
-<sub><b>n8n</b></sub>
-</td>
-
-<td align="center" width="110">
-<img src="https://files.catbox.moe/7lgszw.png" width="50" height="50" style="border-radius:12px;"/><br><br>
-<sub><b>Hermes</b></sub>
-</td>
-
-<td align="center" width="110">
-<img src="https://files.catbox.moe/4v0m9m.png" width="50" height="50" style="border-radius:12px;"/><br><br>
-<sub><b>OpenClaw</b></sub>
-</td>
-
-</tr>
+  <tr>
+    <td align="center" width="110">
+      <img 
+        src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/cursor.png" 
+        width="50" 
+        height="50"
+        style="border-radius:12px;"
+      /><br><br>
+      <sub><b>Cursor</b></sub>
+    </td>
+    <td align="center" width="110">
+      <img src="https://cdn.simpleicons.org/n8n/EA4B71" width="50" height="50"/><br><br>
+      <sub><b>n8n</b></sub>
+    </td>
+    <td align="center" width="110">
+      <img src="https://img.icons8.com/fluency/96/artificial-intelligence.png" width="50" height="50"/><br><br>
+      <sub><b>Hermes</b></sub>
+    </td>
+    <td align="center" width="110">
+      <img src="https://img.icons8.com/fluency/96/robot-2.png" width="50" height="50"/><br><br>
+      <sub><b>OpenClaw</b></sub>
+    </td>
+  </tr>
 </table>
 
 ### ⚙️ Backend, DevOps & Software Engineering
