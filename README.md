@@ -262,16 +262,16 @@
       <sub><b>Anaconda</b></sub>
     </td>
     <td align="center" width="110">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="50" height="50"/><br><br>
-      <sub><b>Jupyter</b></sub>
-    </td>
-    <td align="center" width="110">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="50" height="50"/><br><br>
       <sub><b>VS Code</b></sub>
     </td>
     <td align="center" width="110">
       <img src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/cursor.png" width="50" height="50" style="border-radius:12px;"/><br><br>
       <sub><b>Cursor</b></sub>
+    </td>
+     <td align="center" width="110">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="50" height="50"/><br><br>
+      <sub><b>Jupyter</b></sub>
     </td>
   </tr>
 </table>
