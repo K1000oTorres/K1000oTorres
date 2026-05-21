@@ -155,21 +155,22 @@
 <sub><b>n8n</b></sub>
 <td align="center" width="110">
   <img 
-    src="https://img.icons8.com/fluency/96/female-user.png"
+    src="https://img.icons8.com/color/96/anime-character.png"
     width="50"
     height="50"
     style="border-radius:12px;"
   /><br><br>
   <sub><b>Hermes</b></sub>
 </td>
+
 <td align="center" width="110">
   <img 
-    src="https://img.icons8.com/fluency/96/bot.png"
+    src="https://img.icons8.com/fluency/96/lobster.png"
     width="50"
     height="50"
     style="
       border-radius:12px;
-      filter:hue-rotate(-40deg) saturate(250%);
+      filter:saturate(180%);
     "
   /><br><br>
   <sub><b>OpenClaw</b></sub>
