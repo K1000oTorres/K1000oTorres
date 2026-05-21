@@ -26,59 +26,185 @@
 ## 🛠️ Tech Stack
 
 ### 👨‍💻 Programming Languages
-<p>
-  <img src="https://skillicons.dev/icons?i=python,cpp,r,bash" />
-</p>
+
+<table>
+  <tr>
+    <td align="center" width="100">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" height="45"/><br>
+      <sub><b>Python</b></sub>
+    </td>
+    <td align="center" width="100">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="45" height="45"/><br>
+      <sub><b>C++</b></sub>
+    </td>
+    <td align="center" width="100">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" width="45" height="45"/><br>
+      <sub><b>R</b></sub>
+    </td>
+    <td align="center" width="100">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="45" height="45"/><br>
+      <sub><b>Bash</b></sub>
+    </td>
+  </tr>
+</table>
 
 ---
 
 ### 🤖 AI / Machine Learning
-<p>
-  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv" />
-</p>
 
-<p>
-  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
-  <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
-  <img src="https://img.shields.io/badge/LangChain-000000?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/LangGraph-121D33?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge"/>
-</p>
+<table>
+  <tr>
+    <td align="center" width="100">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="45" height="45"/><br>
+      <sub><b>PyTorch</b></sub>
+    </td>
+    <td align="center" width="100">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="45" height="45"/><br>
+      <sub><b>TensorFlow</b></sub>
+    </td>
+    <td align="center" width="100">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" width="45" height="45"/><br>
+      <sub><b>OpenCV</b></sub>
+    </td>
+    <td align="center" width="100">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" width="45" height="45"/><br>
+      <sub><b>Scikit-Learn</b></sub>
+    </td>
+    <td align="center" width="100">
+      <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" width="45" height="45"/><br>
+      <sub><b>Hugging Face</b></sub>
+    </td>
+  </tr>
+</table>
 
 ---
 
 ### ⚙️ Backend & Software Engineering
-<p>
-  <img src="https://skillicons.dev/icons?i=fastapi,flask,docker,git,github,linux,vscode" />
-</p>
+
+<table>
+  <tr>
+    <td align="center" width="100">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="45" height="45"/><br>
+      <sub><b>FastAPI</b></sub>
+    </td>
+    <td align="center" width="100">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="45" height="45"/><br>
+      <sub><b>Flask</b></sub>
+    </td>
+    <td align="center" width="100">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="45" height="45"/><br>
+      <sub><b>Docker</b></sub>
+    </td>
+    <td align="center" width="100">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45" height="45"/><br>
+      <sub><b>Git</b></sub>
+    </td>
+    <td align="center" width="100">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45" height="45"/><br>
+      <sub><b>GitHub</b></sub>
+    </td>
+    <td align="center" width="100">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="45" height="45"/><br>
+      <sub><b>Linux</b></sub>
+    </td>
+  </tr>
+</table>
 
 ---
 
 ### ☁️ Cloud & Databases
-<p>
-  <img src="https://skillicons.dev/icons?i=aws,gcp,azure,mongodb,mysql,postgresql,sqlite" />
-</p>
+
+<table>
+  <tr>
+    <td align="center" width="100">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="45" height="45"/><br>
+      <sub><b>AWS</b></sub>
+    </td>
+    <td align="center" width="100">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="45" height="45"/><br>
+      <sub><b>Google Cloud</b></sub>
+    </td>
+    <td align="center" width="100">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="45" height="45"/><br>
+      <sub><b>Azure</b></sub>
+    </td>
+    <td align="center" width="100">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="45" height="45"/><br>
+      <sub><b>MongoDB</b></sub>
+    </td>
+    <td align="center" width="100">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45" height="45"/><br>
+      <sub><b>MySQL</b></sub>
+    </td>
+    <td align="center" width="100">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="45" height="45"/><br>
+      <sub><b>PostgreSQL</b></sub>
+    </td>
+  </tr>
+</table>
 
 ---
 
 ### 📊 Data Analysis & Visualization
-<p>
-  <img src="https://skillicons.dev/icons?i=matplotlib" />
-</p>
 
-<p>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
-</p>
+<table>
+  <tr>
+    <td align="center" width="100">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="45" height="45"/><br>
+      <sub><b>Pandas</b></sub>
+    </td>
+    <td align="center" width="100">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="45" height="45"/><br>
+      <sub><b>NumPy</b></sub>
+    </td>
+    <td align="center" width="100">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="45" height="45"/><br>
+      <sub><b>Matplotlib</b></sub>
+    </td>
+    <td align="center" width="100">
+      <img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" width="45" height="45"/><br>
+      <sub><b>Tableau</b></sub>
+    </td>
+    <td align="center" width="100">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" width="45" height="45"/><br>
+      <sub><b>Power BI</b></sub>
+    </td>
+  </tr>
+</table>
 
 ---
 
 ### 💻 Operating Systems & Environments
-<p>
-  <img src="https://skillicons.dev/icons?i=linux,ubuntu,windows,anaconda,jupyter" />
-</p>
+
+<table>
+  <tr>
+    <td align="center" width="100">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="45" height="45"/><br>
+      <sub><b>Linux</b></sub>
+    </td>
+    <td align="center" width="100">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" width="45" height="45"/><br>
+      <sub><b>Ubuntu</b></sub>
+    </td>
+    <td align="center" width="100">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" width="45" height="45"/><br>
+      <sub><b>Windows</b></sub>
+    </td>
+    <td align="center" width="100">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" width="45" height="45"/><br>
+      <sub><b>Anaconda</b></sub>
+    </td>
+    <td align="center" width="100">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="45" height="45"/><br>
+      <sub><b>Jupyter</b></sub>
+    </td>
+    <td align="center" width="100">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="45" height="45"/><br>
+      <sub><b>VS Code</b></sub>
+    </td>
+  </tr>
+</table>
+
 
 
 ## 🛠️ Skills
