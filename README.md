@@ -119,10 +119,6 @@
       <sub><b>Gemini</b></sub>
     </td>
     <td align="center" width="110">
-  <img src="https://img.icons8.com/color/96/002244/xai.png" width="50" height="50" style="border-radius:12px;"/><br><br>
-  <sub><b>Grok</b></sub>
-</td>
-    <td align="center" width="110">
       <img src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/deepseek-color.png" width="50" height="50"/><br><br>
       <sub><b>DeepSeek</b></sub>
     </td>
@@ -291,8 +287,6 @@
 
 A selection of projects where I have worked at the intersection of Artificial Intelligence, Machine Learning, Biomedical Research, Computational Imaging, Agents, and LLM-based applications.
 
----
-
 ### 🫀 Biomedical AI for Cardiovascular Risk Estimation
 
 | Item | Details |
@@ -311,8 +305,6 @@ Worked on AI-supported research processes for the management, processing, and an
 | [Data-Augmentation-Echocardiogram-Frames](https://github.com/K1000oTorres/Data-Augmentation-Echocardiogram-Frames) | Data augmentation pipeline for echocardiogram frames used in biomedical imaging research. | Python, Data Augmentation, Echocardiography |
 
 **Focus:** `Biomedical AI` · `Machine Learning` · `Cardiovascular Risk` · `ECG` · `Echocardiography`
-
----
 
 ### 🔬 Computational Imaging & Fourier Ptychography Microscopy
 
@@ -334,8 +326,6 @@ Implemented and experimented with computational imaging algorithms for high-reso
 | [PtyLab](https://github.com/K1000oTorres/PtyLab) | Computational imaging and ptychography-related experimentation using the PtyLab framework. | Python, Ptychography, Image Reconstruction |
 
 **Focus:** `Computational Imaging` · `Fourier Ptychography` · `Microscopy` · `Deep Learning` · `Image Reconstruction`
-
----
 
 ### 🤗 AI Agents, LLM Applications & Automation
 
