@@ -285,9 +285,15 @@
 
 ## 🚀 Featured Projects
 
-A selection of projects where I have worked at the intersection of Artificial Intelligence, Machine Learning, Biomedical Research, Computational Imaging, Agents, and LLM-based applications.
+A curated selection of projects where I combine **Artificial Intelligence**, **Machine Learning**, **Biomedical Research**, **Computational Imaging**, **AI Agents**, and **LLM-based applications**.
+
+Each section highlights the research context, my technical contribution, related repositories, and public evidence such as seminars, talks, or demos.
 
 ---
+
+<table width="100%">
+  <tr>
+    <td width="62%" valign="top">
 
 <h2>🫀 Biomedical AI for Cardiovascular Risk Estimation</h2>
 
@@ -425,46 +431,319 @@ I contributed to a funded research project focused on <b>cardiovascular risk est
   <tr>
     <td width="62%" valign="top">
 
-### 🔬 Computational Imaging & Fourier Ptychography Microscopy
+<h2>🔬 Computational Imaging & Fourier Ptychography Microscopy</h2>
 
-| Item | Details |
-|---|---|
-| **Role** | Research Support Professional & Algorithm Developer |
-| **Project** | High-resolution microscopy prototype based on Fourier Ptychography |
-| **Output** | 3 algorithms implemented · 1 scientific article in development |
+<p>
+I worked on computational imaging algorithms for a <b>high-resolution microscopy prototype based on Fourier Ptychography</b>, exploring image reconstruction, deep learning-based enhancement, and neural representations for microscopy.
+</p>
 
-Implemented and experimented with computational imaging algorithms for high-resolution microscopy and image reconstruction using Fourier Ptychography techniques.
+<table width="100%">
+  <tr>
+    <td width="25%"><b>Role</b></td>
+    <td>Research Support Professional & Algorithm Developer</td>
+  </tr>
+  <tr>
+    <td><b>Project</b></td>
+    <td>High-resolution microscopy prototype based on Fourier Ptychography</td>
+  </tr>
+  <tr>
+    <td><b>Output</b></td>
+    <td>3 algorithms implemented · 1 scientific article in development</td>
+  </tr>
+  <tr>
+    <td><b>Focus</b></td>
+    <td>Computational Imaging · Fourier Ptychography · Microscopy · Image Reconstruction</td>
+  </tr>
+</table>
 
-#### Related repositories
+<h3>Related repositories</h3>
 
-| Repository | Description | Stack / Focus |
-|---|---|---|
-| [FPM-INR](https://github.com/K1000oTorres/FPM-INR) | Implementation and experimentation with implicit neural representations for Fourier Ptychographic Microscopy. | Python, Deep Learning, INR |
-| [FPM-CNN](https://github.com/K1000oTorres/FPM-CNN) | CNN-based approach for Fourier Ptychographic Microscopy reconstruction. | Python, CNNs, Computational Imaging |
-| [CI-CDNet](https://github.com/K1000oTorres/CI-CDNet) | Complex-domain neural network approach for image enhancement/reconstruction in computational imaging. | Python, Neural Networks, Computational Imaging |
-| [PtyLab](https://github.com/K1000oTorres/PtyLab) | Computational imaging and ptychography-related experimentation using the PtyLab framework. | Python, Ptychography, Image Reconstruction |
+<table width="100%">
+  <tr>
+    <th width="28%" align="left">Repository</th>
+    <th width="47%" align="left">Description</th>
+    <th width="25%" align="left">Stack / Focus</th>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://github.com/K1000oTorres/FPM-INR"><b>FPM-INR</b></a>
+    </td>
+    <td>
+      <sub>Implementation and experimentation with implicit neural representations for Fourier Ptychographic Microscopy.</sub>
+    </td>
+    <td>
+      <sub>
+        <code>Python</code><br>
+        <code>Deep Learning</code><br>
+        <code>INR</code>
+      </sub>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://github.com/K1000oTorres/FPM-CNN"><b>FPM-CNN</b></a>
+    </td>
+    <td>
+      <sub>CNN-based approach for Fourier Ptychographic Microscopy reconstruction.</sub>
+    </td>
+    <td>
+      <sub>
+        <code>Python</code><br>
+        <code>CNNs</code><br>
+        <code>Computational Imaging</code>
+      </sub>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://github.com/K1000oTorres/CI-CDNet"><b>CI-CDNet</b></a>
+    </td>
+    <td>
+      <sub>Complex-domain neural network approach for image enhancement and reconstruction in computational imaging.</sub>
+    </td>
+    <td>
+      <sub>
+        <code>Python</code><br>
+        <code>Neural Networks</code><br>
+        <code>Image Reconstruction</code>
+      </sub>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://github.com/K1000oTorres/PtyLab"><b>PtyLab</b></a>
+    </td>
+    <td>
+      <sub>Computational imaging and ptychography-related experimentation using the PtyLab framework.</sub>
+    </td>
+    <td>
+      <sub>
+        <code>Python</code><br>
+        <code>Ptychography</code><br>
+        <code>Image Reconstruction</code>
+      </sub>
+    </td>
+  </tr>
+</table>
 
-**Focus:** `Computational Imaging` · `Fourier Ptychography` · `Microscopy` · `Deep Learning` · `Image Reconstruction`
+<p>
+  <code>Computational Imaging</code> ·
+  <code>Fourier Ptychography</code> ·
+  <code>Microscopy</code> ·
+  <code>Deep Learning</code> ·
+  <code>Image Reconstruction</code>
+</p>
 
-### 🤗 AI Agents, LLM Applications & Automation
+</td>
 
-| Item | Details |
-|---|---|
-| **Role** | AI Engineer / LLM Developer |
-| **Status** | In progress |
+<td width="38%" valign="top">
 
-Building practical AI agents and LLM-based applications focused on document analysis, KPI extraction, report generation, research assistance, and workflow automation.
+<table width="100%">
+  <tr>
+    <td align="center">
+      <h3>🎥 Research Seminar</h3>
+      <a href="https://www.youtube.com/watch?v=uycoOqsvKVI">
+        <img src="https://img.youtube.com/vi/uycoOqsvKVI/hqdefault.jpg" width="310" alt="Systematic literature review of Fourier Ptychography">
+      </a>
+      <br><br>
+      <a href="https://www.youtube.com/watch?v=uycoOqsvKVI">
+        <img src="https://img.shields.io/badge/Watch%20on-YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white">
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="left">
+      <b>Seminar title</b>
+      <br>
+      <sub>Revisión sistematizada bibliográfica de la Ptychografía de Fourier.</sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="left">
+      <b>What it demonstrates</b>
+      <br>
+      <sub>Public technical communication of Fourier Ptychography concepts, computational imaging methods, and microscopy reconstruction research.</sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="left">
+      <b>Topics</b>
+      <br>
+      <sub>
+        <code>Fourier Ptychography</code> ·
+        <code>Computational Imaging</code> ·
+        <code>Microscopy</code> ·
+        <code>Image Reconstruction</code>
+      </sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="left">
+      <b>Evidence</b>
+      <br>
+      <sub>Public research seminar · 35m 44s · Spanish</sub>
+    </td>
+  </tr>
+</table>
 
-#### Planned projects
+</td>
+  </tr>
+</table>
 
-| Project | Description | Stack / Focus |
-|---|---|---|
-| `LLM KPI Report Agent` | Agent for extracting KPIs from documents and generating structured reports. | LLMs, RAG, Report Generation |
-| `Research Assistant Agent` | Assistant for supporting literature review, paper analysis, and research workflows. | LLMs, RAG, Research Assistance |
-| `Document Analysis Agent` | Agent for analyzing documents, extracting key information, and summarizing content. | LLMs, NLP, Document Processing |
-| `Automation Agent` | Workflow automation agent for repetitive tasks and process optimization. | Python, FastAPI, Automation |
+---
 
-**Focus:** `AI Agents` · `LLMs` · `RAG` · `Hugging Face` · `LangChain` · `FastAPI` · `Automation`
+<table width="100%">
+  <tr>
+    <td width="62%" valign="top">
+
+<h2>🤗 AI Agents, LLM Applications & Automation</h2>
+
+<p>
+I am building practical AI agents and LLM-based applications focused on document analysis, KPI extraction, report generation, research assistance, and workflow automation.
+</p>
+
+<table width="100%">
+  <tr>
+    <td width="25%"><b>Role</b></td>
+    <td>AI Engineer / LLM Developer</td>
+  </tr>
+  <tr>
+    <td><b>Status</b></td>
+    <td>In progress</td>
+  </tr>
+  <tr>
+    <td><b>Focus</b></td>
+    <td>AI Agents · LLMs · RAG · Automation · Report Generation</td>
+  </tr>
+</table>
+
+<h3>Current project roadmap</h3>
+
+<table width="100%">
+  <tr>
+    <th width="28%" align="left">Project</th>
+    <th width="47%" align="left">Description</th>
+    <th width="25%" align="left">Stack / Focus</th>
+  </tr>
+  <tr>
+    <td><b>LLM KPI Report Agent</b></td>
+    <td>
+      <sub>Agent for extracting KPIs from documents and generating structured reports.</sub>
+    </td>
+    <td>
+      <sub>
+        <code>LLMs</code><br>
+        <code>RAG</code><br>
+        <code>Reports</code>
+      </sub>
+    </td>
+  </tr>
+  <tr>
+    <td><b>Research Assistant Agent</b></td>
+    <td>
+      <sub>Assistant for supporting literature review, paper analysis, and research workflows.</sub>
+    </td>
+    <td>
+      <sub>
+        <code>LLMs</code><br>
+        <code>RAG</code><br>
+        <code>Research</code>
+      </sub>
+    </td>
+  </tr>
+  <tr>
+    <td><b>Document Analysis Agent</b></td>
+    <td>
+      <sub>Agent for analyzing documents, extracting key information, and summarizing content.</sub>
+    </td>
+    <td>
+      <sub>
+        <code>LLMs</code><br>
+        <code>NLP</code><br>
+        <code>Document AI</code>
+      </sub>
+    </td>
+  </tr>
+  <tr>
+    <td><b>Automation Agent</b></td>
+    <td>
+      <sub>Workflow automation agent for repetitive tasks and process optimization.</sub>
+    </td>
+    <td>
+      <sub>
+        <code>Python</code><br>
+        <code>FastAPI</code><br>
+        <code>Automation</code>
+      </sub>
+    </td>
+  </tr>
+</table>
+
+<p>
+  <code>AI Agents</code> ·
+  <code>LLMs</code> ·
+  <code>RAG</code> ·
+  <code>Hugging Face</code> ·
+  <code>LangChain</code> ·
+  <code>FastAPI</code> ·
+  <code>Automation</code>
+</p>
+
+</td>
+
+<td width="38%" valign="top">
+
+<table width="100%">
+  <tr>
+    <td align="center">
+      <h3>🎬 Demo Evidence</h3>
+      <img src="https://img.shields.io/badge/Production%20Demo-Coming%20Soon-555555?style=for-the-badge&logo=github&logoColor=white">
+    </td>
+  </tr>
+  <tr>
+    <td align="left">
+      <b>Primary project</b>
+      <br>
+      <sub>LLM KPI Report Agent</sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="left">
+      <b>Goal</b>
+      <br>
+      <sub>Build a production-oriented LLM system for KPI extraction, document analysis, structured report generation, and evaluation of RAG-based workflows.</sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="left">
+      <b>Planned evidence</b>
+      <br>
+      <sub>
+        <code>Demo Video</code> ·
+        <code>FastAPI</code> ·
+        <code>Docker</code> ·
+        <code>Tests</code> ·
+        <code>RAG Evals</code>
+      </sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="left">
+      <b>Target metrics</b>
+      <br>
+      <sub>
+        <code>Extraction Accuracy</code> ·
+        <code>Latency</code> ·
+        <code>Token Cost</code> ·
+        <code>Faithfulness</code>
+      </sub>
+    </td>
+  </tr>
+</table>
+
+</td>
+  </tr>
+</table>
 
 
 <h2 align="center">💡 Research Seminars & Presentations</h2>
