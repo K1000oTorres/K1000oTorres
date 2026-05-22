@@ -289,9 +289,8 @@
 
 ## 🚀 Featured Projects
 
-A selection of projects where I have worked at the intersection of Artificial Intelligence, Machine Learning, Biomedical Research, Computational Imaging, and LLM-based applications.
+A selection of projects where I have worked at the intersection of Artificial Intelligence, Machine Learning, Biomedical Research, Computational Imaging, Agents, and LLM-based applications.
 
----
 
 ### 🫀 Biomedical AI for Cardiovascular Risk Estimation
 
@@ -306,8 +305,6 @@ Worked on AI-supported research processes for the management, processing, and an
 
 **Focus:** `Biomedical AI` · `Machine Learning` · `Cardiovascular Risk` · `ECG` · `Echocardiography`
 
----
-
 ### 🔬 Computational Imaging & Fourier Ptychography Microscopy
 
 **Role:** Research Support Professional & Algorithm Developer  
@@ -320,8 +317,6 @@ Implemented and experimented with computational imaging algorithms for high-reso
 [FPM-INR](https://github.com/K1000oTorres/FPM-INR) · [FPM-CNN](https://github.com/K1000oTorres/FPM-CNN) · [CI-CDNet](https://github.com/K1000oTorres/CI-CDNet) · [PtyLab](https://github.com/K1000oTorres/PtyLab)
 
 **Focus:** `Computational Imaging` · `Fourier Ptychography` · `Microscopy` · `Deep Learning` · `Image Reconstruction`
-
----
 
 ### 🤗 AI Agents, LLM Applications & Automation
 
