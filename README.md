@@ -21,7 +21,7 @@
 - 🤖 Passionate about AI Engineering, Machine Learning & Research.
 - 🧠 Currently improving my Software Engineering & MLOps skills.
 - 🔬 Interested in interdisciplinary and high-impact AI projects.
-- 📩 Contact: **junkasanto2@gmail.com**
+- 📩 Open to global AI opportunities: **junkasanto2@gmail.com**
   
 ## 🛠️ Tech Stack
 
@@ -287,24 +287,68 @@
 
 A selection of projects where I have worked at the intersection of Artificial Intelligence, Machine Learning, Biomedical Research, Computational Imaging, Agents, and LLM-based applications.
 
-### 🫀 Biomedical AI for Cardiovascular Risk Estimation
+---
+
+## 🫀 Biomedical AI for Cardiovascular Risk Estimation
+
+<table>
+  <tr>
+    <td width="58%" valign="top">
+
+### Overview
+
+I contributed to a funded research project focused on **cardiovascular risk estimation using Industry 4.0 technologies**, supporting AI-based workflows for the management, processing, and analysis of biomedical information.
 
 | Item | Details |
 |---|---|
 | **Role** | Research & AI Support Professional |
-| **Project** | Funded research project on cardiovascular risk estimation using Industry 4.0 technologies |
+| **Project** | Cardiovascular risk estimation using AI and Industry 4.0 technologies |
 | **Output** | 6 scientific articles published |
+| **Focus** | Biomedical AI, ECG, Echocardiography, Cardiovascular Risk |
 
-Worked on AI-supported research processes for the management, processing, and analysis of medical information related to cardiovascular risk estimation.
-
-#### Related repositories
+### Related Repositories
 
 | Repository | Description | Stack / Focus |
 |---|---|---|
 | [AE-HRS](https://github.com/K1000oTorres/AE-HRS) | AI-based approach related to cardiovascular risk estimation and biomedical signal/data analysis. | Python, Machine Learning, Biomedical AI |
 | [Data-Augmentation-Echocardiogram-Frames](https://github.com/K1000oTorres/Data-Augmentation-Echocardiogram-Frames) | Data augmentation pipeline for echocardiogram frames used in biomedical imaging research. | Python, Data Augmentation, Echocardiography |
 
-**Focus:** `Biomedical AI` · `Machine Learning` · `Cardiovascular Risk` · `ECG` · `Echocardiography`
+<p>
+  <img src="https://img.shields.io/badge/Biomedical%20AI-Research-blue?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Echocardiography-Deep%20Learning-red?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Cardiovascular%20Risk-ML-green?style=for-the-badge">
+</p>
+
+</td>
+<td width="42%" valign="top" align="center">
+
+### 🎥 Research Seminar
+
+<a href="https://www.youtube.com/watch?v=fFzutLnrivU" target="_blank">
+  <img src="https://img.youtube.com/vi/fFzutLnrivU/hqdefault.jpg" width="100%" alt="Echocardiogram analysis for cardiovascular risk estimation using deep learning">
+</a>
+
+<br>
+
+<a href="https://www.youtube.com/watch?v=fFzutLnrivU" target="_blank">
+  <img src="https://img.shields.io/badge/Watch%20Seminar-YouTube-red?style=for-the-badge&logo=youtube">
+</a>
+
+<br><br>
+
+<b>Análisis de ecocardiogramas para estimación de riesgo cardiovascular usando aprendizaje profundo</b>
+
+<br><br>
+
+<sub>
+Public technical presentation about echocardiogram analysis, cardiovascular risk estimation, and deep learning-based biomedical research.
+</sub>
+
+</td>
+  </tr>
+</table>
+
+---
 
 ### 🔬 Computational Imaging & Fourier Ptychography Microscopy
 
@@ -346,16 +390,7 @@ Building practical AI agents and LLM-based applications focused on document anal
 | `Automation Agent` | Workflow automation agent for repetitive tasks and process optimization. | Python, FastAPI, Automation |
 
 **Focus:** `AI Agents` · `LLMs` · `RAG` · `Hugging Face` · `LangChain` · `FastAPI` · `Automation`
-## 🛠️ Skills
 
-- ⚡ Adaptability.
-- 🎯 Commitment. 
-- 🧠 Problem-solving. 
-- 🚀 Leadership.
-- 👥 Teamwork.
-- 🎨 Creativity.
-- 📢 Communication.
-- 📊 Time management.
 
 <h2 align="center">💡 Research Seminars & Presentations</h2>
 
