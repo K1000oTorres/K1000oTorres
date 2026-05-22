@@ -289,8 +289,6 @@ A curated selection of projects where I combine **Artificial Intelligence**, **M
 
 Each section highlights the research context, my technical contribution, related repositories, and public evidence such as seminars, talks, or demos.
 
----
-
 <table width="100%">
   <tr>
     <td width="62%" valign="top">
@@ -745,44 +743,368 @@ I am building practical AI agents and LLM-based applications focused on document
   </tr>
 </table>
 
+## 📚 Research & Publications
 
-<h2 align="center">💡 Research Seminars & Presentations</h2>
+I have contributed to research at the intersection of **Artificial Intelligence**, **Biomedical Signal Processing**, **Medical Image Analysis**, **Computational Cardiology**, and **Clinical Decision Support Systems**.
 
 <p align="center">
-    <a href="https://www.youtube.com/watch?v=fFzutLnrivU" target="_blank" rel="noopener noreferrer">
-        <img src="https://img.youtube.com/vi/fFzutLnrivU/0.jpg" alt="Análisis de ecocardiogramas para estimación de riesgo cardiovascular usando aprendizaje profundo." width="400" />
-        <br />
-        <strong>Análisis de ecocardiogramas para estimación de riesgo cardiovascular usando aprendizaje profundo.</strong>
-    </a>
-    <br />
-    <small><i>(Canal: Automatic Data-driven Analytics Laboratory - Duración: 33m 50s)</i></small>
+  <a href="https://scholar.google.com/citations?user=SycCdssAAAAJ&hl=en">
+    <img src="https://img.shields.io/badge/Google%20Scholar-Profile-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white">
+  </a>
+  <a href="https://orcid.org/0009-0006-1076-8277">
+    <img src="https://img.shields.io/badge/ORCID-0009--0006--1076--8277-A6CE39?style=for-the-badge&logo=orcid&logoColor=white">
+  </a>
+  <a href="https://dblp.org/pid/313/9622.html">
+    <img src="https://img.shields.io/badge/DBLP-Bibliography-004F9F?style=for-the-badge">
+  </a>
 </p>
 
-<p align="center">
-    <a href="https://www.youtube.com/watch?v=uycoOqsvKVI" target="_blank" rel="noopener noreferrer">
-        <img src="https://img.youtube.com/vi/uycoOqsvKVI/0.jpg" alt="Revisión sistematizada bibliográfica de la Pticografía de Fourier" width="400" />
-        <br />
-        <strong>Revisión sistematizada bibliográfica de la Pticografía de Fourier</strong>
-    </a>
-    <br />
-    <small><i>(Canal: Automatic Data-driven Analytics Laboratory - Duración: 35m 44s)</i></small>
-<hr>
- 
-<h1 align="center">
-  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30">
-  Connect with me 🤝
-</h1>
+---
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/juan-camilo-torres-santamaria-9a7b6821a/" target="_blank" style="margin: 0 15px;">
-    <img src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" height="55" width="55"/>
-  </a>
+<table width="100%">
+  <tr>
+    <td width="38%" valign="top">
 
-  <a href="https://www.instagram.com/cami.torres26/" target="_blank" style="margin: 0 15px;">
-    <img src="https://cdn.simpleicons.org/instagram/E4405F" height="55" width="55"/>
-  </a>
+<h3>🔎 Research Snapshot</h3>
 
-  <a href="https://www.kaggle.com/camilotorres26" target="_blank" style="margin: 0 15px;">
-    <img src="https://cdn.simpleicons.org/kaggle/20BEFF" height="55" width="55"/>
-  </a>
+<table width="100%">
+  <tr>
+    <td><b>🧾 Research output</b></td>
+    <td>6+ scientific works</td>
+  </tr>
+  <tr>
+    <td><b>🏥 Main domain</b></td>
+    <td>Biomedical AI & Computational Cardiology</td>
+  </tr>
+  <tr>
+    <td><b>🫀 Data modalities</b></td>
+    <td>ECG signals · Echocardiography · Clinical data</td>
+  </tr>
+  <tr>
+    <td><b>📍 Venues</b></td>
+    <td>MICCAI · SIPAIM · Biomedical Imaging</td>
+  </tr>
+  <tr>
+    <td><b>📈 Metrics</b></td>
+    <td>
+      <a href="https://scholar.google.com/citations?user=SycCdssAAAAJ&hl=en">See live citation metrics on Google Scholar</a>
+    </td>
+  </tr>
+</table>
+
+<br>
+
+<p>
+  <code>Biomedical AI</code> ·
+  <code>ECG</code> ·
+  <code>Echocardiography</code> ·
+  <code>Medical Imaging</code> ·
+  <code>Cardiovascular Risk</code> ·
+  <code>Deep Learning</code>
+</p>
+
+</td>
+
+<td width="62%" valign="top">
+
+<h3>🧠 Research Focus</h3>
+
+<table width="100%">
+  <tr>
+    <td width="32%"><b>🫀 Cardiovascular AI</b></td>
+    <td>
+      <sub>AI-supported analysis for cardiovascular risk estimation, cardiac function assessment, and health recommendation systems.</sub>
+    </td>
+  </tr>
+  <tr>
+    <td><b>📈 ECG Signal Analysis</b></td>
+    <td>
+      <sub>Deep learning and data-driven approaches for ECG classification, visualization, and clinical signal interpretation.</sub>
+    </td>
+  </tr>
+  <tr>
+    <td><b>🩺 Echocardiography</b></td>
+    <td>
+      <sub>Ultrasound image analysis, ejection fraction estimation, ventricular dynamics, and cardiac function modeling.</sub>
+    </td>
+  </tr>
+  <tr>
+    <td><b>🤖 Clinical Decision Support</b></td>
+    <td>
+      <sub>Recommendation systems, collaborative filtering, similarity-based retrieval, and interpretable biomedical AI workflows.</sub>
+    </td>
+  </tr>
+</table>
+
+</td>
+  </tr>
+</table>
+
+---
+
+### 🏆 Selected Research Highlights
+
+<table width="100%">
+  <tr>
+    <td width="33%" valign="top">
+
+<h3>🏅 MICCAI 2024</h3>
+
+<b>Left Ventricular Ultrasound Dynamics</b>
+
+<br><br>
+
+<sub>
+Frequency-domain analysis of echocardiography videos to support cardiac function estimation beyond traditional ejection fraction-based assessment.
+</sub>
+
+<br><br>
+
+<code>Echocardiography</code>
+<code>FFT</code>
+<code>Cardiac Function</code>
+<code>Medical Imaging</code>
+
+<br><br>
+
+<a href="https://doi.org/10.1007/978-3-031-72378-0_21">DOI</a> ·
+<a href="https://papers.miccai.org/miccai-2024/133-Paper3315.html">MICCAI Paper</a>
+
+</td>
+
+<td width="33%" valign="top">
+
+<h3>🫀 SIPAIM 2025</h3>
+
+<b>AE-HRS Health Recommender System</b>
+
+<br><br>
+
+<sub>
+Autoencoder-based health recommender system for forecasting cardiovascular conditions through collaborative filtering.
+</sub>
+
+<br><br>
+
+<code>Autoencoders</code>
+<code>Recommender Systems</code>
+<code>Cardiovascular AI</code>
+
+<br><br>
+
+<a href="https://doi.org/10.1109/SIPAIM67325.2025.11283335">DOI</a> ·
+<a href="https://github.com/K1000oTorres/AE-HRS">Repository</a>
+
+</td>
+
+<td width="33%" valign="top">
+
+<h3>📈 SIPAIM 2024</h3>
+
+<b>Deep Learning for ECG Classification</b>
+
+<br><br>
+
+<sub>
+Comparative analysis of deep neural network architectures for heart disease classification using electrocardiography signals.
+</sub>
+
+<br><br>
+
+<code>ECG</code>
+<code>Deep Learning</code>
+<code>Heart Disease</code>
+<code>Classification</code>
+
+<br><br>
+
+<a href="https://doi.org/10.1109/SIPAIM62974.2024.10783577">DOI</a>
+
+</td>
+  </tr>
+</table>
+
+---
+
+### 📄 Publications
+
+<table width="100%">
+  <tr>
+    <th width="8%" align="center">Year</th>
+    <th width="42%" align="left">Publication</th>
+    <th width="18%" align="left">Venue</th>
+    <th width="20%" align="left">Research Area</th>
+    <th width="12%" align="center">Links</th>
+  </tr>
+
+  <tr>
+    <td align="center"><b>2025</b></td>
+    <td>
+      <b>AE-HRS: Autoencoder-Based Health Recommender System for Forecasting Cardiovascular Conditions through Collaborative Filtering</b>
+      <br>
+      <sub>J. Camilo Torres, O. Diaz-Celis, D. Muñoz Melendez, E. Romero, M. Iregui, A. Cruz-Roa</sub>
+    </td>
+    <td>
+      <sub>21st International Symposium on Biomedical Image Processing and Analysis</sub>
+    </td>
+    <td>
+      <code>Health Recommender Systems</code><br>
+      <code>Autoencoders</code><br>
+      <code>Cardiovascular AI</code>
+    </td>
+    <td align="center">
+      <a href="https://doi.org/10.1109/SIPAIM67325.2025.11283335">DOI</a>
+      <br>
+      <a href="https://github.com/K1000oTorres/AE-HRS">Repo</a>
+    </td>
+  </tr>
+
+  <tr>
+    <td align="center"><b>2024</b></td>
+    <td>
+      <b>Comparative Analysis of Deep Neural Network Architectures for Heart Disease Classification in Electrocardiography Signals</b>
+      <br>
+      <sub>A. Muñoz, J. Torres-Santamaria, M. Iregui, E. Romero, A. Cruz-Roa</sub>
+    </td>
+    <td>
+      <sub>20th International Symposium on Medical Information Processing and Analysis</sub>
+    </td>
+    <td>
+      <code>ECG</code><br>
+      <code>Deep Learning</code><br>
+      <code>Heart Disease Classification</code>
+    </td>
+    <td align="center">
+      <a href="https://doi.org/10.1109/SIPAIM62974.2024.10783577">DOI</a>
+    </td>
+  </tr>
+
+  <tr>
+    <td align="center"><b>2024</b></td>
+    <td>
+      <b>Characterizing the Left Ventricular Ultrasound Dynamics in the Frequency Domain to Estimate the Cardiac Function</b>
+      <br>
+      <sub>A. F. Carrera-Pinzón, L. Toro-Quitian, J. C. Torres, A. Cerón, W. Sarmiento, et al.</sub>
+    </td>
+    <td>
+      <sub>MICCAI 2024</sub>
+    </td>
+    <td>
+      <code>Echocardiography</code><br>
+      <code>Frequency Domain</code><br>
+      <code>Cardiac Function</code>
+    </td>
+    <td align="center">
+      <a href="https://doi.org/10.1007/978-3-031-72378-0_21">DOI</a>
+      <br>
+      <a href="https://papers.miccai.org/miccai-2024/133-Paper3315.html">Paper</a>
+    </td>
+  </tr>
+
+  <tr>
+    <td align="center"><b>2024</b></td>
+    <td>
+      <b>Evidence-Based Case Recommendation System for Cardiac Health Diagnosis Using Non-Negative Factorization Data-Driven Similarity Approach</b>
+      <br>
+      <sub>O. Diaz-Celis, J. Torres-Santamaria, M. Caviedes, M. Iregui, R. E. Gutiérrez-Carvajal, E. Romero, A. Cruz-Roa</sub>
+    </td>
+    <td>
+      <sub>20th International Symposium on Medical Information Processing and Analysis</sub>
+    </td>
+    <td>
+      <code>Clinical Decision Support</code><br>
+      <code>Case Recommendation</code><br>
+      <code>Similarity Learning</code>
+    </td>
+    <td align="center">
+      <a href="https://doi.org/10.1109/SIPAIM62974.2024.10783499">DOI</a>
+    </td>
+  </tr>
+
+  <tr>
+    <td align="center"><b>2024</b></td>
+    <td>
+      <b>A Domain Data-Driven Metric to Improve Traditional Visualization and Interaction with ECG Large Databases</b>
+      <br>
+      <sub>J. C. Polo, J. V. Castilla, J. C. Torres, A. Cerón, W. J. Sarmiento, A. Cruz-Roa, et al.</sub>
+    </td>
+    <td>
+      <sub>20th International Symposium on Medical Information Processing and Analysis</sub>
+    </td>
+    <td>
+      <code>ECG Databases</code><br>
+      <code>Data Visualization</code><br>
+      <code>Biomedical Signals</code>
+    </td>
+    <td align="center">
+      <a href="https://doi.org/10.1109/SIPAIM62974.2024.10783588">DOI</a>
+    </td>
+  </tr>
+
+  <tr>
+    <td align="center"><b>2023</b></td>
+    <td>
+      <b>Automatic Estimation of the Ejection Fraction from Diastole and Systole Ultrasound Images by a Simplified End-to-End U-Net Neural Network</b>
+      <br>
+      <sub>L. Toro-Quitian, J. C. Torres, A. F. Carrera-Pinzón, R. E. Gutiérrez-Carvajal, M. Iregui, A. Cruz-Roa, et al.</sub>
+    </td>
+    <td>
+      <sub>19th International Symposium on Medical Information Processing and Analysis</sub>
+    </td>
+    <td>
+      <code>U-Net</code><br>
+      <code>Ejection Fraction</code><br>
+      <code>Ultrasound Imaging</code>
+    </td>
+    <td align="center">
+      <a href="https://doi.org/10.1109/SIPAIM56729.2023.10373544">DOI</a>
+    </td>
+  </tr>
+</table>
+
+---
+
+<details>
+  <summary><b>🎓 Additional Academic Work</b></summary>
+
+<br>
+
+<table width="100%">
+  <tr>
+    <th width="12%" align="center">Year</th>
+    <th width="50%" align="left">Work</th>
+    <th width="23%" align="left">Institution</th>
+    <th width="15%" align="center">Link</th>
+  </tr>
+  <tr>
+    <td align="center"><b>2024</b></td>
+    <td>
+      <b>Analysis of Echocardiography Images for Cardiovascular Risk and Cardiac Function Estimation Using Deep Learning Techniques</b>
+      <br>
+      <sub>Academic research work focused on echocardiography, cardiovascular risk, and cardiac function estimation.</sub>
+    </td>
+    <td>
+      <sub>Universidad de los Llanos</sub>
+    </td>
+    <td align="center">
+      <a href="https://scholar.google.com/citations?user=SycCdssAAAAJ&hl=en">Scholar</a>
+    </td>
+  </tr>
+</table>
+
+</details>
+
+---
+
+### 🔬 Research Keywords
+
+<p>
+  <code>Pattern Recognition</code> ·
+  <code>Computational Cardiology</code> ·
+  <code>Medical Image Analysis</code> ·
+  <code>Biomedical Signal Processing</code> ·
+  <code>ECG</code> ·
+  <code>Echocardiography</code> ·
+  <code>Clinical Decision Support</code> ·
+  <code>Deep Learning</code>
 </p>
