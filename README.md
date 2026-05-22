@@ -291,45 +291,71 @@
 
 A selection of projects where I have worked at the intersection of Artificial Intelligence, Machine Learning, Biomedical Research, Computational Imaging, Agents, and LLM-based applications.
 
+---
 
 ### 🫀 Biomedical AI for Cardiovascular Risk Estimation
 
-**Role:** Research & AI Support Professional  
-**Project:** Funded research project on cardiovascular risk estimation using Industry 4.0 technologies  
-**Output:** 6 scientific articles published  
+| Item | Details |
+|---|---|
+| **Role** | Research & AI Support Professional |
+| **Project** | Funded research project on cardiovascular risk estimation using Industry 4.0 technologies |
+| **Output** | 6 scientific articles published |
 
 Worked on AI-supported research processes for the management, processing, and analysis of medical information related to cardiovascular risk estimation.
 
-**Related repositories:**  
-[AE-HRS](https://github.com/K1000oTorres/AE-HRS) · [Data-Augmentation-Echocardiogram-Frames](https://github.com/K1000oTorres/Data-Augmentation-Echocardiogram-Frames)
+#### Related repositories
+
+| Repository | Description | Stack / Focus |
+|---|---|---|
+| [AE-HRS](https://github.com/K1000oTorres/AE-HRS) | AI-based approach related to cardiovascular risk estimation and biomedical signal/data analysis. | Python, Machine Learning, Biomedical AI |
+| [Data-Augmentation-Echocardiogram-Frames](https://github.com/K1000oTorres/Data-Augmentation-Echocardiogram-Frames) | Data augmentation pipeline for echocardiogram frames used in biomedical imaging research. | Python, Data Augmentation, Echocardiography |
 
 **Focus:** `Biomedical AI` · `Machine Learning` · `Cardiovascular Risk` · `ECG` · `Echocardiography`
 
+---
+
 ### 🔬 Computational Imaging & Fourier Ptychography Microscopy
 
-**Role:** Research Support Professional & Algorithm Developer  
-**Project:** High-resolution microscopy prototype based on Fourier Ptychography  
-**Output:** 3 algorithms implemented · 1 scientific article in development  
+| Item | Details |
+|---|---|
+| **Role** | Research Support Professional & Algorithm Developer |
+| **Project** | High-resolution microscopy prototype based on Fourier Ptychography |
+| **Output** | 3 algorithms implemented · 1 scientific article in development |
 
 Implemented and experimented with computational imaging algorithms for high-resolution microscopy and image reconstruction using Fourier Ptychography techniques.
 
-**Related repositories:**  
-[FPM-INR](https://github.com/K1000oTorres/FPM-INR) · [FPM-CNN](https://github.com/K1000oTorres/FPM-CNN) · [CI-CDNet](https://github.com/K1000oTorres/CI-CDNet) · [PtyLab](https://github.com/K1000oTorres/PtyLab)
+#### Related repositories
+
+| Repository | Description | Stack / Focus |
+|---|---|---|
+| [FPM-INR](https://github.com/K1000oTorres/FPM-INR) | Implementation and experimentation with implicit neural representations for Fourier Ptychographic Microscopy. | Python, Deep Learning, INR |
+| [FPM-CNN](https://github.com/K1000oTorres/FPM-CNN) | CNN-based approach for Fourier Ptychographic Microscopy reconstruction. | Python, CNNs, Computational Imaging |
+| [CI-CDNet](https://github.com/K1000oTorres/CI-CDNet) | Complex-domain neural network approach for image enhancement/reconstruction in computational imaging. | Python, Neural Networks, Computational Imaging |
+| [PtyLab](https://github.com/K1000oTorres/PtyLab) | Computational imaging and ptychography-related experimentation using the PtyLab framework. | Python, Ptychography, Image Reconstruction |
 
 **Focus:** `Computational Imaging` · `Fourier Ptychography` · `Microscopy` · `Deep Learning` · `Image Reconstruction`
 
+---
+
 ### 🤗 AI Agents, LLM Applications & Automation
 
-**Role:** AI Engineer / LLM Developer  
-**Status:** In progress  
+| Item | Details |
+|---|---|
+| **Role** | AI Engineer / LLM Developer |
+| **Status** | In progress |
 
 Building practical AI agents and LLM-based applications focused on document analysis, KPI extraction, report generation, research assistance, and workflow automation.
 
-**Planned projects:**  
-`LLM KPI Report Agent` · `Research Assistant Agent` · `Document Analysis Agent` · `Automation Agent`
+#### Planned projects
+
+| Project | Description | Stack / Focus |
+|---|---|---|
+| `LLM KPI Report Agent` | Agent for extracting KPIs from documents and generating structured reports. | LLMs, RAG, Report Generation |
+| `Research Assistant Agent` | Assistant for supporting literature review, paper analysis, and research workflows. | LLMs, RAG, Research Assistance |
+| `Document Analysis Agent` | Agent for analyzing documents, extracting key information, and summarizing content. | LLMs, NLP, Document Processing |
+| `Automation Agent` | Workflow automation agent for repetitive tasks and process optimization. | Python, FastAPI, Automation |
 
 **Focus:** `AI Agents` · `LLMs` · `RAG` · `Hugging Face` · `LangChain` · `FastAPI` · `Automation`
-
 ## 🛠️ Skills
 
 - ⚡ Adaptability.
