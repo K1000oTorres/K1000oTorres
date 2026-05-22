@@ -771,8 +771,6 @@ I am building practical AI agents and LLM-based applications focused on document
     </td>
     <td align="center">
       <a href="https://doi.org/10.1109/SIPAIM67325.2025.11283335">DOI</a>
-      <br>
-      <a href="https://github.com/K1000oTorres/AE-HRS">Repo</a>
     </td>
   </tr>
 
@@ -813,8 +811,6 @@ I am building practical AI agents and LLM-based applications focused on document
     </td>
     <td align="center">
       <a href="https://doi.org/10.1007/978-3-031-72378-0_21">DOI</a>
-      <br>
-      <a href="https://papers.miccai.org/miccai-2024/133-Paper3315.html">Paper</a>
     </td>
   </tr>
 
@@ -878,40 +874,6 @@ I am building practical AI agents and LLM-based applications focused on document
     </td>
   </tr>
 </table>
-
----
-
-<details>
-  <summary><b>🎓 Additional Academic Work</b></summary>
-
-<br>
-
-<table width="100%">
-  <tr>
-    <th width="12%" align="center">Year</th>
-    <th width="50%" align="left">Work</th>
-    <th width="23%" align="left">Institution</th>
-    <th width="15%" align="center">Link</th>
-  </tr>
-  <tr>
-    <td align="center"><b>2024</b></td>
-    <td>
-      <b>Analysis of Echocardiography Images for Cardiovascular Risk and Cardiac Function Estimation Using Deep Learning Techniques</b>
-      <br>
-      <sub>Academic research work focused on echocardiography, cardiovascular risk, and cardiac function estimation.</sub>
-    </td>
-    <td>
-      <sub>Universidad de los Llanos</sub>
-    </td>
-    <td align="center">
-      <a href="https://scholar.google.com/citations?user=SycCdssAAAAJ&hl=en">Scholar</a>
-    </td>
-  </tr>
-</table>
-
-</details>
-
----
 
 ### 🔬 Research Keywords
 
