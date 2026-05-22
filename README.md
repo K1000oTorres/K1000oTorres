@@ -289,21 +289,15 @@ A selection of projects where I have worked at the intersection of Artificial In
 
 ---
 
-## 🫀 Biomedical AI for Cardiovascular Risk Estimation
+<h2>🫀 Biomedical AI for Cardiovascular Risk Estimation</h2>
+
+<p>
+I contributed to a funded research project focused on <b>cardiovascular risk estimation using Industry 4.0 technologies</b>, supporting AI-based workflows for the management, processing, and analysis of biomedical information.
+</p>
 
 <table width="100%">
   <tr>
-    <td width="64%" valign="top">
-
-### Overview
-
-I contributed to a funded research project focused on **cardiovascular risk estimation using Industry 4.0 technologies**, supporting AI-based workflows for the management, processing, and analysis of biomedical information.
-
-<br>
-
-<table>
-  <tr>
-    <td><b>Role</b></td>
+    <td width="25%"><b>Role</b></td>
     <td>Research & AI Support Professional</td>
   </tr>
   <tr>
@@ -320,88 +314,116 @@ I contributed to a funded research project focused on **cardiovascular risk esti
   </tr>
 </table>
 
-<br>
+<h3>Related repositories</h3>
 
-### Related Repositories
-
-<a href="https://github.com/K1000oTorres/AE-HRS">
-  <b>AE-HRS</b>
-</a>
-
-<br>
-
-<sub>
-AI-based approach related to cardiovascular risk estimation and biomedical signal/data analysis.
-</sub>
-
-<br>
-
-<sub>
-<b>Stack:</b> Python · Machine Learning · Biomedical AI
-</sub>
-
-<br><br>
-
-<a href="https://github.com/K1000oTorres/Data-Augmentation-Echocardiogram-Frames">
-  <b>Data-Augmentation-Echocardiogram-Frames</b>
-</a>
-
-<br>
-
-<sub>
-Data augmentation pipeline for echocardiogram frames used in biomedical imaging research.
-</sub>
-
-<br>
-
-<sub>
-<b>Stack:</b> Python · Data Augmentation · Echocardiography
-</sub>
-
-<br><br>
+<table width="100%">
+  <tr>
+    <th width="28%" align="left">Repository</th>
+    <th width="47%" align="left">Description</th>
+    <th width="25%" align="left">Stack / Focus</th>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://github.com/K1000oTorres/AE-HRS"><b>AE-HRS</b></a>
+    </td>
+    <td>
+      <sub>AI-based approach related to cardiovascular risk estimation and biomedical signal/data analysis.</sub>
+    </td>
+    <td>
+      <sub>
+        <code>Python</code><br>
+        <code>Machine Learning</code><br>
+        <code>Biomedical AI</code>
+      </sub>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://github.com/K1000oTorres/Data-Augmentation-Echocardiogram-Frames"><b>Data-Augmentation-Echocardiogram-Frames</b></a>
+    </td>
+    <td>
+      <sub>Data augmentation pipeline for echocardiogram frames used in biomedical imaging research.</sub>
+    </td>
+    <td>
+      <sub>
+        <code>Python</code><br>
+        <code>Data Augmentation</code><br>
+        <code>Echocardiography</code>
+      </sub>
+    </td>
+  </tr>
+</table>
 
 <p>
-  <img src="https://img.shields.io/badge/-Biomedical%20AI-22EBF7?style=for-the-badge">
-  <img src="https://img.shields.io/badge/-Research-20BEFF?style=for-the-badge">
-  <img src="https://img.shields.io/badge/-Echocardiography-E4405F?style=for-the-badge">
-  <img src="https://img.shields.io/badge/-Deep%20Learning-EA4B71?style=for-the-badge">
-  <img src="https://img.shields.io/badge/-Cardiovascular%20Risk-E95420?style=for-the-badge">
-  <img src="https://img.shields.io/badge/-ML-76B900?style=for-the-badge">
+  <code>Biomedical AI</code> ·
+  <code>Machine Learning</code> ·
+  <code>Cardiovascular Risk</code> ·
+  <code>ECG</code> ·
+  <code>Echocardiography</code> ·
+  <code>Deep Learning</code>
 </p>
 
 </td>
 
-<td width="36%" valign="top" align="center">
+<td width="38%" valign="top">
 
-### 🎥 Research Seminar
-
-<a href="https://www.youtube.com/watch?v=fFzutLnrivU" target="_blank">
-  <img src="https://img.youtube.com/vi/fFzutLnrivU/hqdefault.jpg" width="300" alt="Echocardiogram analysis for cardiovascular risk estimation using deep learning">
-</a>
-
-<br><br>
-
-<a href="https://www.youtube.com/watch?v=fFzutLnrivU" target="_blank">
-  <img src="https://img.shields.io/badge/Watch%20Seminar-YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white">
-</a>
-
-<br><br>
-
-<b>
-Análisis de ecocardiogramas para estimación de riesgo cardiovascular usando aprendizaje profundo
-</b>
-
-<br><br>
-
-<sub>
-Public technical presentation about echocardiogram analysis, cardiovascular risk estimation, and deep learning-based biomedical research.
-</sub>
+<table width="100%">
+  <tr>
+    <td align="center">
+      <h3>🎥 Research Seminar</h3>
+      <a href="https://www.youtube.com/watch?v=fFzutLnrivU">
+        <img src="https://img.youtube.com/vi/fFzutLnrivU/hqdefault.jpg" width="310" alt="Echocardiogram analysis for cardiovascular risk estimation using deep learning">
+      </a>
+      <br><br>
+      <a href="https://www.youtube.com/watch?v=fFzutLnrivU">
+        <img src="https://img.shields.io/badge/Watch%20on-YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white">
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="left">
+      <b>Seminar title</b>
+      <br>
+      <sub>Análisis de ecocardiogramas para estimación de riesgo cardiovascular usando aprendizaje profundo.</sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="left">
+      <b>What it demonstrates</b>
+      <br>
+      <sub>Public technical communication of biomedical AI research applied to echocardiogram analysis and cardiovascular risk estimation.</sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="left">
+      <b>Topics</b>
+      <br>
+      <sub>
+        <code>Echocardiography</code> ·
+        <code>Deep Learning</code> ·
+        <code>Biomedical AI</code> ·
+        <code>Cardiovascular Risk</code>
+      </sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="left">
+      <b>Evidence</b>
+      <br>
+      <sub>Public research seminar · 33m 50s · Spanish</sub>
+    </td>
+  </tr>
+</table>
 
 </td>
   </tr>
 </table>
 
 ---
+
+<table width="100%">
+  <tr>
+    <td width="62%" valign="top">
 
 ### 🔬 Computational Imaging & Fourier Ptychography Microscopy
 
