@@ -882,7 +882,6 @@ I am building practical AI agents and LLM-based applications focused on document
   <code>Computational Cardiology</code> ·
   <code>Medical Image Analysis</code> ·
   <code>Biomedical Signal Processing</code> ·
-  <code>ECG</code> ·
   <code>Echocardiography</code> ·
   <code>Clinical Decision Support</code> ·
   <code>Deep Learning</code>
